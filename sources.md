@@ -24,3 +24,13 @@
 | Organiser pages (web search) | Environmental Law Centre data-centre webinar (Nov 5), Wood Mackenzie hyperscaler power webinar (Nov 19) |
 | Memorial (gazette.mun.ca) | 504 timeout; search hits had weekday/date mismatches (likely old years) - skipped |
 | Meetup, Propel, City of St. John's calendar | Not scraped this pass (Propel /events 404) |
+
+## Pass 3 (entertainment, 2026-10-26 ~22:45 NT)
+| Source | Result |
+|---|---|
+| Eventbrite St. John's (arts/music/community already scraped) | 15 shows (concerts, The Ship, Celtic Fiddlers, comedy/magic, Halloween, Tibbs Eve) + 3 business (Export Café YYT, NLBA Awards, Atlantic CMP Conference) |
+| Holy Heart Theatre (holyhearttheatre.com) | 10 timed shows (Shallaway, Miracle on 34th St, Lady Cove, Christmas to Remember, The Once, Ennis Sisters). Untimed items (Nathan Carter Nov 4, Dardanelles Dec 28, Sheila Williams) skipped |
+| Mary Brown's Centre (mbcentre.ca) | Stars on Ice Dec 2, Johnny Reid Dec 12 (Jimmy Carr already in feed) |
+| LSPU Hall / RCA (lspuhall.ca) | A Time in the Old Hall Dec 15; Short Play Festival and Feast of Cohen listed without times - skipped |
+| Arts and Culture Centre | Irish Descendants Christmas Dec 23 (band tour page) |
+| JAG/Soundhouse, Spirit of Newfoundland, Ticketmaster | Not checked this pass (time) |
