@@ -64,7 +64,7 @@ now=datetime.now(timezone.utc).strftime('%Y%m%dT%H%M%SZ')
 seen=set();lines=["BEGIN:VCALENDAR","VERSION:2.0","PRODID:-//Grok Bot//Nearby + Virtual//EN","CALSCALE:GREGORIAN","METHOD:PUBLISH","X-WR-CALNAME:Nearby + Virtual","X-WR-TIMEZONE:America/St_Johns","REFRESH-INTERVAL;VALUE=DURATION:PT12H","X-PUBLISHED-TTL:PT12H"]
 rows=[]
 for s,e,t,loc,url,src,v,n in L:
-  st=p(s);en=p(e) if e else st+timedelta(hours=2)
+  st=p(s);en=p(e) if e and 'T' in e else st+timedelta(hours=2)
   if en<NOW: continue
   title=("[virtual] " if v else "")+t
   k=(st.astimezone(timezone.utc).isoformat(),t.lower())
