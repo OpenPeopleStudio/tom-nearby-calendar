@@ -1,0 +1,411 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Grok Bot//Nearby + Virtual//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Nearby + Virtual
+X-WR-TIMEZONE:America/St_Johns
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:a546277de4e4b357c9a9aa0c21b703ae8a929c9d@nearby-virtual
+DTSTAMP:20261026T221159Z
+DTSTART:20261028T183000Z
+DTEND:20261028T203000Z
+SUMMARY:Know Your Audience: Build Meaningful Connections
+LOCATION:230 Elizabeth Ave\, St. John's\, NL A1B 3X9 (Room A1046\, Art & 
+ Administration\, Memorial University)
+DESCRIPTION:Source: https://www.eventbrite.ca/e/know-your-audience-build-
+ meaningful-connections-tickets-2003346691884\nVia: Eventbrite\nLocal time
+ : Wed Oct 28 2026 04:00 PM NT
+URL:https://www.eventbrite.ca/e/know-your-audience-build-meaningful-connections-tickets-2003346691884
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:129e808360271502a5f37582f80838c1d575cc37@nearby-virtual
+DTSTAMP:20261026T221159Z
+DTSTART:20261029T113000Z
+DTEND:20261029T124500Z
+SUMMARY:Export Café YYT (Featuring UK Government's Department for BIST)
+LOCATION:Co. Innovation Centre\, 710 Torbay Road\, #Suite A\, St. John's\
+ , NL A1A 5G9
+DESCRIPTION:Source: https://www.eventbrite.com/e/export-cafe-yyt-featurin
+ g-uk-governments-department-for-bist-tickets-2002233259578\nVia: Eventbri
+ te\nLocal time: Thu Oct 29 2026 09:00 AM NT
+URL:https://www.eventbrite.com/e/export-cafe-yyt-featuring-uk-governments-department-for-bist-tickets-2002233259578
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f58f068ea3427d1592fe1dd638e41294a3f7e7bd@nearby-virtual
+DTSTAMP:20261026T221159Z
+DTSTART:20261030T110000Z
+DTEND:20261030T123000Z
+SUMMARY:Tequity+ What Progress Requires: Gloria Steinem's Legacy and the 
+ Work Ahead
+LOCATION:7 Ricketts Road\, St. John's\, NL A1C 6G8
+DESCRIPTION:Source: https://www.eventbrite.ca/e/tequity-what-progress-req
+ uires-gloria-steinems-legacy-and-the-work-ahead-tickets-2003161843999\nVi
+ a: Eventbrite\nLocal time: Fri Oct 30 2026 08:30 AM NT
+URL:https://www.eventbrite.ca/e/tequity-what-progress-requires-gloria-steinems-legacy-and-the-work-ahead-tickets-2003161843999
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:96a4d6754399016f4b354ae562520e0a86f50bba@nearby-virtual
+DTSTAMP:20261026T221159Z
+DTSTART:20261030T130000Z
+DTEND:20261030T160000Z
+SUMMARY:Banking\, Finance & Insurance: Careers and Connections
+LOCATION:The Landing (UC 3015) Third Floor\, University Centre\, Memorial
+  University\, 1 Arctic Avenue\, St. John's\, NL A1B 3V6
+DESCRIPTION:Source: https://www.eventbrite.ca/e/banking-finance-insurance
+ -careers-and-connections-tickets-2003406067478\nVia: Eventbrite\nLocal ti
+ me: Fri Oct 30 2026 10:30 AM NT
+URL:https://www.eventbrite.ca/e/banking-finance-insurance-careers-and-connections-tickets-2003406067478
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3939dee53e35e115ecf030156e641096db9e8203@nearby-virtual
+DTSTAMP:20261026T221159Z
+DTSTART:20261103T133000Z
+DTEND:20261103T203000Z
+SUMMARY:2026 Atlantic Canada Mineral Processors (CMP) Conference
+LOCATION:Alt Hotel St. John's\, 125 Water Street\, St. John's\, NL A1C 5X
+ 4
+DESCRIPTION:Source: https://www.eventbrite.ca/e/2026-atlantic-canada-mine
+ ral-processors-cmp-conference-tickets-1995449661654\nVia: Eventbrite\nLoc
+ al time: Tue Nov 03 2026 10:00 AM NT
+URL:https://www.eventbrite.ca/e/2026-atlantic-canada-mineral-processors-cmp-conference-tickets-1995449661654
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3060f623067b4b1af9b5dc71edc26d1f02c3ac8b@nearby-virtual
+DTSTAMP:20261026T221159Z
+DTSTART:20261103T173000Z
+DTEND:20261103T203000Z
+SUMMARY:St. John's: Founder Bootcamp
+LOCATION:St. John's Convention Centre\, 101 New Gower St\, St. John's\, N
+ L A1C 4K2
+DESCRIPTION:Source: https://lu.ma/st-johns-founder-bootcamp\nVia: Luma\nL
+ ocal time: Tue Nov 03 2026 02:00 PM NT
+URL:https://lu.ma/st-johns-founder-bootcamp
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b15d801422b2de3f8349d6549c8c90f10995b868@nearby-virtual
+DTSTAMP:20261026T221159Z
+DTSTART:20261107T213000Z
+DTEND:20261108T000000Z
+SUMMARY:Connect. Empower. Elevate. | Newfoundland & Labrador Networking E
+ vent
+LOCATION:7 Ricketts Road\, St. John's\, NL A1C 6G8
+DESCRIPTION:Source: https://www.eventbrite.ca/e/connect-empower-elevate-n
+ ewfoundland-labrador-networking-event-tickets-2000528913834\nVia: Eventbr
+ ite\nLocal time: Sat Nov 07 2026 06:00 PM NT
+URL:https://www.eventbrite.ca/e/connect-empower-elevate-newfoundland-labrador-networking-event-tickets-2000528913834
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f8cb6d420eaf9cc1fb764562cec3047abdd6a31b@nearby-virtual
+DTSTAMP:20261026T221159Z
+DTSTART:20261120T120000Z
+DTEND:20261120T160000Z
+SUMMARY:CES-NL 2026 Professional Development Conference
+LOCATION:Admiralty House Communications Museum\, 365 Old Placentia Road\,
+  Mount Pearl\, NL A1N 0G7
+DESCRIPTION:Source: https://www.eventbrite.ca/e/ces-nl-2026-professional-
+ development-conference-tickets-2003147004614\nVia: Eventbrite\nLocal time
+ : Fri Nov 20 2026 08:30 AM NT
+URL:https://www.eventbrite.ca/e/ces-nl-2026-professional-development-conference-tickets-2003147004614
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:21f0b48d4087a2973d685959e16b5cfec100c74e@nearby-virtual
+DTSTAMP:20261026T221159Z
+DTSTART:20261121T213000Z
+DTEND:20261122T013000Z
+SUMMARY:Demo Night 6
+LOCATION:90 Duckworth St\, St. John's\, NL A1C 1E7
+DESCRIPTION:Source: https://lu.ma/px2a1hjt\nVia: Luma\nLocal time: Sat No
+ v 21 2026 06:00 PM NT
+URL:https://lu.ma/px2a1hjt
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:896fcbe24f8e0292700f0d6f8e7908bddb8cebac@nearby-virtual
+DTSTAMP:20261026T221159Z
+DTSTART:20261108T223000Z
+DTEND:20261109T003000Z
+SUMMARY:Raine Maida & Chantal Kreviazuk at JAG
+LOCATION:JAG
+DESCRIPTION:Source: https://jaghotel.ca\nVia: personal_radar (source: jag
+ hotel.ca)\nLocal time: Sun Nov 08 2026 07:00 PM NT\nEnd time not publishe
+ d\; 2h placeholder.
+URL:https://jaghotel.ca
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:105231d88970e5822a9f589da13c4c1773382c76@nearby-virtual
+DTSTAMP:20261026T221159Z
+DTSTART:20261110T233000Z
+DTEND:20261111T013000Z
+SUMMARY:The Last Waltz 50th Anniversary at JAG
+LOCATION:JAG Soundhouse
+DESCRIPTION:Source: https://jagsoundhouse.ca/shows/\nVia: personal_radar\
+ nLocal time: Tue Nov 10 2026 08:00 PM NT\nEnd time not published\; 2h pla
+ ceholder.
+URL:https://jagsoundhouse.ca/shows/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2f6a2d2f9f790705bac4631c28b540817eaa96aa@nearby-virtual
+DTSTAMP:20261026T221159Z
+DTSTART:20261119T233000Z
+DTEND:20261120T013000Z
+SUMMARY:HYPROV at JAG
+LOCATION:JAG Soundhouse
+DESCRIPTION:Source: https://jagsoundhouse.ca/shows/\nVia: personal_radar\
+ nLocal time: Thu Nov 19 2026 08:00 PM NT\nEnd time not published\; 2h pla
+ ceholder.
+URL:https://jagsoundhouse.ca/shows/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a932ff179c44e03079c5926531e9c5766e819984@nearby-virtual
+DTSTAMP:20261026T221159Z
+DTSTART:20261121T233000Z
+DTEND:20261122T013000Z
+SUMMARY:The Trews with Wintersleep at JAG
+LOCATION:JAG Soundhouse
+DESCRIPTION:Source: https://jaghotel.ca/event/the-trews-with-wintersleep/
+ \nVia: personal_radar\nLocal time: Sat Nov 21 2026 08:00 PM NT\nEnd time 
+ not published\; 2h placeholder.
+URL:https://jaghotel.ca/event/the-trews-with-wintersleep/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bbeaea0cca950fe3df3a46c0411a015f212489b8@nearby-virtual
+DTSTAMP:20261026T221159Z
+DTSTART:20261122T230000Z
+DTEND:20261123T010000Z
+SUMMARY:Jimmy Carr at Mary Brown's
+LOCATION:Mary Brown's Centre
+DESCRIPTION:Source: https://mbcentre.ca/\nVia: personal_radar\nLocal time
+ : Sun Nov 22 2026 07:30 PM NT\nEnd time not published\; 2h placeholder.
+URL:https://mbcentre.ca/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3f708f81cdee7ef19c7203e3b634cc339999e738@nearby-virtual
+DTSTAMP:20261026T221159Z
+DTSTART:20261126T230000Z
+DTEND:20261127T010000Z
+SUMMARY:Bored Teachers comedy tour at JAG
+LOCATION:JAG Soundhouse
+DESCRIPTION:Source: https://jagsoundhouse.ca/shows/\nVia: personal_radar\
+ nLocal time: Thu Nov 26 2026 07:30 PM NT\nEnd time not published\; 2h pla
+ ceholder.
+URL:https://jagsoundhouse.ca/shows/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ca845587394ff4fe9172987c04bd6326dbc34c2c@nearby-virtual
+DTSTAMP:20261026T221159Z
+DTSTART:20261028T140000Z
+DTEND:20261028T170000Z
+SUMMARY:[virtual] AI & the Agentic Era: What It Means for Founders
+LOCATION:Online (Founder Institute)
+DESCRIPTION:Source: https://www.eventbrite.com/e/ai-the-agentic-era-what-
+ it-means-for-founders-tickets-2003209562727\nVia: Eventbrite\nLocal time:
+  Wed Oct 28 2026 11:30 AM NT
+URL:https://www.eventbrite.com/e/ai-the-agentic-era-what-it-means-for-founders-tickets-2003209562727
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2c800537723cbd2db73f0a802a9c38cfcc9e6a6d@nearby-virtual
+DTSTAMP:20261026T221159Z
+DTSTART:20261028T190000Z
+DTEND:20261028T203000Z
+SUMMARY:[virtual] MENTORSHOP: Using Claude AI to Build a SaaS Site in abo
+ ut a Week
+LOCATION:Online
+DESCRIPTION:Source: https://www.eventbrite.com/e/mentorshop-using-claude-
+ ai-to-build-a-saas-site-in-about-a-week-tickets-2003024863286\nVia: Event
+ brite\nLocal time: Wed Oct 28 2026 04:30 PM NT
+URL:https://www.eventbrite.com/e/mentorshop-using-claude-ai-to-build-a-saas-site-in-about-a-week-tickets-2003024863286
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:852c1d6517aae0975416257caee9f04a3aedf509@nearby-virtual
+DTSTAMP:20261026T221159Z
+DTSTART:20261029T150000Z
+DTEND:20261029T160000Z
+SUMMARY:[virtual] AI-Enabled Innovation and the Future of Competitive Adv
+ antage
+LOCATION:Online (MIT Industrial Liaison Program | Startup Exchange)
+DESCRIPTION:Source: https://www.eventbrite.com/e/ai-enabled-innovation-an
+ d-the-future-of-competitive-advantage-registration-2001078065361\nVia: Ev
+ entbrite\nLocal time: Thu Oct 29 2026 12:30 PM NT
+URL:https://www.eventbrite.com/e/ai-enabled-innovation-and-the-future-of-competitive-advantage-registration-2001078065361
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7a8dd206fb91b3fce200bd7db00206205ce05b90@nearby-virtual
+DTSTAMP:20261026T221159Z
+DTSTART:20261029T180000Z
+DTEND:20261029T193000Z
+SUMMARY:[virtual] Battery Energy Storage in Alberta
+LOCATION:Online (Solar Alberta)
+DESCRIPTION:Source: https://www.eventbrite.ca/e/battery-energy-storage-in
+ -alberta-tickets-1997636007072\nVia: Eventbrite\nLocal time: Thu Oct 29 2
+ 026 03:30 PM NT
+URL:https://www.eventbrite.ca/e/battery-energy-storage-in-alberta-tickets-1997636007072
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:71619af3da91e81fd736270c232a1df3a8384032@nearby-virtual
+DTSTAMP:20261026T221159Z
+DTSTART:20261030T160000Z
+DTEND:20261030T170000Z
+SUMMARY:[virtual] Intro to Angel Investing
+LOCATION:Online (VentureSouth)
+DESCRIPTION:Source: https://www.eventbrite.com/e/intro-to-angel-investing
+ -tickets-1963612506867\nVia: Eventbrite\nLocal time: Fri Oct 30 2026 01:3
+ 0 PM NT
+URL:https://www.eventbrite.com/e/intro-to-angel-investing-tickets-1963612506867
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6a4638aa66d51b3d461654e2faacc806cc1d2904@nearby-virtual
+DTSTAMP:20261026T221159Z
+DTSTART:20261102T140000Z
+DTEND:20261102T163000Z
+SUMMARY:[virtual] Investor Readiness Session (Online Workshop for Startup
+  Founders)
+LOCATION:Online (Leapfunder)
+DESCRIPTION:Source: https://www.eventbrite.nl/e/investor-readiness-sessio
+ n-online-workshop-for-startup-founders-tickets-1990414887509\nVia: Eventb
+ rite\nLocal time: Mon Nov 02 2026 10:30 AM NT
+URL:https://www.eventbrite.nl/e/investor-readiness-session-online-workshop-for-startup-founders-tickets-1990414887509
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a8954236bb7b336400e641b42bddabd6f8f54aa3@nearby-virtual
+DTSTAMP:20261026T221159Z
+DTSTART:20261105T180000Z
+DTEND:20261105T190000Z
+SUMMARY:[virtual] From Bootstrapping to Venture Capital: The Funding Land
+ scape for Startups
+LOCATION:Online (Futurpreneur Canada)
+DESCRIPTION:Source: https://www.eventbrite.ca/e/from-bootstrapping-to-ven
+ ture-capital-the-funding-landscape-for-startups-tickets-2003201107437\nVi
+ a: Eventbrite\nLocal time: Thu Nov 05 2026 02:30 PM NT
+URL:https://www.eventbrite.ca/e/from-bootstrapping-to-venture-capital-the-funding-landscape-for-startups-tickets-2003201107437
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:30b41314d61cf7142645697f1c1943fa985b5340@nearby-virtual
+DTSTAMP:20261026T221159Z
+DTSTART:20261105T170000Z
+DTEND:20261105T180000Z
+SUMMARY:[virtual] From Research to Mission: Defense Innovation at MIT
+LOCATION:Online (MIT ILP | Startup Exchange)
+DESCRIPTION:Source: https://www.eventbrite.com/e/from-research-to-mission
+ -defense-innovation-at-mit-registration-2002293650208\nVia: Eventbrite\nL
+ ocal time: Thu Nov 05 2026 01:30 PM NT
+URL:https://www.eventbrite.com/e/from-research-to-mission-defense-innovation-at-mit-registration-2002293650208
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:911a3dc0feedc9863b88baae3bae95cb577cc81b@nearby-virtual
+DTSTAMP:20261026T221159Z
+DTSTART:20261105T120000Z
+DTEND:20261105T130000Z
+SUMMARY:[virtual] How to fund your climate tech startup
+LOCATION:Online (Barclays Eagle Labs)
+DESCRIPTION:Source: https://www.eventbrite.co.uk/e/how-to-fund-your-clima
+ te-tech-startup-tickets-1994796232229\nVia: Eventbrite\nLocal time: Thu N
+ ov 05 2026 08:30 AM NT
+URL:https://www.eventbrite.co.uk/e/how-to-fund-your-climate-tech-startup-tickets-1994796232229
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a7fbb39cd225c7b6806608df8cc9f2c2266118fe@nearby-virtual
+DTSTAMP:20261026T221159Z
+DTSTART:20261106T150000Z
+DTEND:20261106T170000Z
+SUMMARY:[virtual] European Venture Capital Summit
+LOCATION:Online (EurDC)
+DESCRIPTION:Source: https://www.eventbrite.com/e/european-venture-capital
+ -summit-tickets-1998094648882\nVia: Eventbrite\nLocal time: Fri Nov 06 20
+ 26 11:30 AM NT
+URL:https://www.eventbrite.com/e/european-venture-capital-summit-tickets-1998094648882
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:54c6a8b112485437f9f2f28518f72f1acd0b6b2b@nearby-virtual
+DTSTAMP:20261026T221159Z
+DTSTART:20261110T150000Z
+DTEND:20261110T160000Z
+SUMMARY:[virtual] Venture Capital: From Lab to Launch
+LOCATION:Online (CincyTech)
+DESCRIPTION:Source: https://www.eventbrite.com/e/venture-capital-from-lab
+ -to-launch-tickets-2000271145843\nVia: Eventbrite\nLocal time: Tue Nov 10
+  2026 11:30 AM NT
+URL:https://www.eventbrite.com/e/venture-capital-from-lab-to-launch-tickets-2000271145843
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:08aa39637a6b02c8ce2e9629c0d3d3e3ebd288c5@nearby-virtual
+DTSTAMP:20261026T221159Z
+DTSTART:20261112T160000Z
+DTEND:20261112T170000Z
+SUMMARY:[virtual] Venture Trailblazers Featuring Mac Conwell
+LOCATION:Online (Founder Institute)
+DESCRIPTION:Source: https://www.eventbrite.com/e/venture-trailblazers-fea
+ turing-mac-conwell-tickets-2003780779251\nVia: Eventbrite\nLocal time: Th
+ u Nov 12 2026 12:30 PM NT
+URL:https://www.eventbrite.com/e/venture-trailblazers-featuring-mac-conwell-tickets-2003780779251
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d97cbbf007af14de66e1973afe31d8c9c9ec60d6@nearby-virtual
+DTSTAMP:20261026T221159Z
+DTSTART:20261117T143000Z
+DTEND:20261117T163000Z
+SUMMARY:[virtual] Power From the Past: Heritage's Role in Renewable Energ
+ y
+LOCATION:Online (Heritage Network)
+DESCRIPTION:Source: https://www.eventbrite.co.uk/e/power-from-the-past-he
+ ritages-role-in-renewable-energy-tickets-2001164427673\nVia: Eventbrite\n
+ Local time: Tue Nov 17 2026 11:00 AM NT
+URL:https://www.eventbrite.co.uk/e/power-from-the-past-heritages-role-in-renewable-energy-tickets-2001164427673
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:26cd09a99101bd8e02839fc9aee8479e72732025@nearby-virtual
+DTSTAMP:20261026T221159Z
+DTSTART:20261119T180000Z
+DTEND:20261119T200000Z
+SUMMARY:[virtual] November 2026 Online VC Fast Pitch.
+LOCATION:Online (Black Dog Venture Partners)
+DESCRIPTION:Source: https://www.eventbrite.com/e/november-2026-online-vc-
+ fast-pitch-tickets-2003376111880\nVia: Eventbrite\nLocal time: Thu Nov 19
+  2026 02:30 PM NT
+URL:https://www.eventbrite.com/e/november-2026-online-vc-fast-pitch-tickets-2003376111880
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:82dfbf0e372e5dbe4ba394ceceb910d04155e7db@nearby-virtual
+DTSTAMP:20261026T221159Z
+DTSTART:20261120T000000Z
+DTEND:20261120T010000Z
+SUMMARY:[virtual] Co-Founder Matching Online Event | Find a Startup Busin
+ ess Partner
+LOCATION:Online (FoundersBeta)
+DESCRIPTION:Source: https://www.eventbrite.ca/e/co-founder-matching-onlin
+ e-event-find-a-startup-business-partner-tickets-2003243556403\nVia: Event
+ brite\nLocal time: Thu Nov 19 2026 08:30 PM NT
+URL:https://www.eventbrite.ca/e/co-founder-matching-online-event-find-a-startup-business-partner-tickets-2003243556403
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
