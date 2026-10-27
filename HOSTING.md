@@ -1,4 +1,15 @@
-# Hosting: Nearby + Virtual ICS feed
+# Hosting: two ICS feeds (colour-coded)
+Since 2026-10-27 build.py writes TWO calendars (iPhone colours are per calendar):
+- nearby-virtual.ics  "Nearby + Virtual"  X-APPLE-CALENDAR-COLOR:#34C759 (green): business/Open People/local non-entertainment + all virtual. 77 events at build.
+  https://tom-nearby-calendar-6z8fv.ondigitalocean.app/nearby-virtual.ics  |  webcal://tom-nearby-calendar-6z8fv.ondigitalocean.app/nearby-virtual.ics
+- entertainment.ics  "St. John's Entertainment"  X-APPLE-CALENDAR-COLOR:#FF3B30 (red): concerts, comedy, theatre, festivals, parades, fairs. 38 events at build.
+  https://tom-nearby-calendar-6z8fv.ondigitalocean.app/entertainment.ics  |  webcal://tom-nearby-calendar-6z8fv.ondigitalocean.app/entertainment.ics
+Category rule (build.py): entertainment = non-virtual AND (picks note 'ENT' OR personal_radar 'R' row OR title in ENT_TITLES); else events. events.json rows now carry a 5th field: category (entertainment|events).
+UIDs unchanged (sha1 of UTC start + original lowercased title). OVR dict in build.py overrides display title/location/notes without changing UID (used for Andrew Rodgers & Nick Earle Unplugged, Nov 12).
+Note: Apple Calendar honours X-APPLE-CALENDAR-COLOR only as a default at subscribe time on some versions; set the colour manually in Calendar settings if it shows otherwise.
+Deployed 2026-10-27 from branch live-20261027.
+
+## History
 - Live: https://tom-nearby-calendar-6z8fv.ondigitalocean.app/nearby-virtual.ics (Content-Type text/calendar, verified 30 VEVENTs 2026-10-26 21:37 NDT; LIVE 115 VEVENTs (56 local, 59 virtual) verified 2026-10-26 22:22 NDT, see below)
 - Subscribe: webcal://tom-nearby-calendar-6z8fv.ondigitalocean.app/nearby-virtual.ics
 - DO App Platform app id: 245e7be9-b526-481d-bd4f-5ffc07f94960 (name tom-nearby-calendar, region tor/tor1, single static site component "feed", tier starter = free)
@@ -15,4 +26,4 @@ Note: GitHub API upload turned the file's CRLF line endings into LF; calendar cl
 `python3 build.py` (reads s2/picks.json for scraped Eventbrite picks; drops events whose end is past). Scraper scripts: s2/eb.py (listing URLs) then s2/det.py (per-event JSON-LD) then s2/picks.py (curated name list).
 
 ## Redeploy workaround (until DO GitHub auth is connected)
-The app uses a public `git` source (no GitHub app auth), so DO reuses its cached build/commit on spec re-apply. What works ($0): push changes to a NEW branch (e.g. `live-YYYYMMDD[b]`), then `apps/apps-update` the spec with `static_sites[0].git.branch` set to that branch. DO then clones the new commit. Currently live from branch `live-20261026` @ 48ea528. Connecting GitHub in DO (github source + deploy_on_push) would remove this step.
+The app uses a public `git` source (no GitHub app auth), so DO reuses its cached build/commit on spec re-apply. What works ($0): push changes to a NEW branch (e.g. `live-YYYYMMDD[b]`), then `apps/apps-update` the spec with `static_sites[0].git.branch` set to that branch. DO then clones the new commit. Previously live from `live-20261026` @ 48ea528; now `live-20261027`. Connecting GitHub in DO (github source + deploy_on_push) would remove this step.

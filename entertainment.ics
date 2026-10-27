@@ -1,0 +1,511 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Grok Bot//St. Johns Entertainment//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:St. John's Entertainment
+X-APPLE-CALENDAR-COLOR:#FF3B30
+X-WR-TIMEZONE:America/St_Johns
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:896fcbe24f8e0292700f0d6f8e7908bddb8cebac@nearby-virtual
+DTSTAMP:20261027T132357Z
+DTSTART:20261108T223000Z
+DTEND:20261109T003000Z
+SUMMARY:Raine Maida & Chantal Kreviazuk at JAG
+LOCATION:JAG
+DESCRIPTION:Source: https://jaghotel.ca\nVia: personal_radar (source: jag
+ hotel.ca)\nLocal time: Sun Nov 08 2026 07:00 PM NT\nEnd time not publishe
+ d\; 2h placeholder.
+URL:https://jaghotel.ca
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:105231d88970e5822a9f589da13c4c1773382c76@nearby-virtual
+DTSTAMP:20261027T132357Z
+DTSTART:20261110T233000Z
+DTEND:20261111T013000Z
+SUMMARY:The Last Waltz 50th Anniversary at JAG
+LOCATION:JAG Soundhouse
+DESCRIPTION:Source: https://jagsoundhouse.ca/shows/\nVia: personal_radar\
+ nLocal time: Tue Nov 10 2026 08:00 PM NT\nEnd time not published\; 2h pla
+ ceholder.
+URL:https://jagsoundhouse.ca/shows/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2f6a2d2f9f790705bac4631c28b540817eaa96aa@nearby-virtual
+DTSTAMP:20261027T132357Z
+DTSTART:20261119T233000Z
+DTEND:20261120T013000Z
+SUMMARY:HYPROV at JAG
+LOCATION:JAG Soundhouse
+DESCRIPTION:Source: https://jagsoundhouse.ca/shows/\nVia: personal_radar\
+ nLocal time: Thu Nov 19 2026 08:00 PM NT\nEnd time not published\; 2h pla
+ ceholder.
+URL:https://jagsoundhouse.ca/shows/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a932ff179c44e03079c5926531e9c5766e819984@nearby-virtual
+DTSTAMP:20261027T132357Z
+DTSTART:20261121T233000Z
+DTEND:20261122T013000Z
+SUMMARY:The Trews with Wintersleep at JAG
+LOCATION:JAG Soundhouse
+DESCRIPTION:Source: https://jaghotel.ca/event/the-trews-with-wintersleep/
+ \nVia: personal_radar\nLocal time: Sat Nov 21 2026 08:00 PM NT\nEnd time 
+ not published\; 2h placeholder.
+URL:https://jaghotel.ca/event/the-trews-with-wintersleep/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bbeaea0cca950fe3df3a46c0411a015f212489b8@nearby-virtual
+DTSTAMP:20261027T132357Z
+DTSTART:20261122T230000Z
+DTEND:20261123T010000Z
+SUMMARY:Jimmy Carr at Mary Brown's
+LOCATION:Mary Brown's Centre
+DESCRIPTION:Source: https://mbcentre.ca/\nVia: personal_radar\nLocal time
+ : Sun Nov 22 2026 07:30 PM NT\nEnd time not published\; 2h placeholder.
+URL:https://mbcentre.ca/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3f708f81cdee7ef19c7203e3b634cc339999e738@nearby-virtual
+DTSTAMP:20261027T132357Z
+DTSTART:20261126T230000Z
+DTEND:20261127T010000Z
+SUMMARY:Bored Teachers comedy tour at JAG
+LOCATION:JAG Soundhouse
+DESCRIPTION:Source: https://jagsoundhouse.ca/shows/\nVia: personal_radar\
+ nLocal time: Thu Nov 26 2026 07:30 PM NT\nEnd time not published\; 2h pla
+ ceholder.
+URL:https://jagsoundhouse.ca/shows/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:70c51131a6f24ae2900e49afce42266f00d5a3d9@nearby-virtual
+DTSTAMP:20261027T132357Z
+DTSTART:20261105T230000Z
+DTEND:20261106T010000Z
+SUMMARY:2nd Show Added: Alan Doyle & Greg Wells - Olde-Time Newfoundland 
+ Songs!
+LOCATION:Trinity Hall Inc.\, 258 Main Road\, Winterton\, NL A0B 3M0\, Win
+ terton\, NL
+DESCRIPTION:Source: https://www.eventbrite.ca/e/2nd-show-added-alan-doyle
+ -greg-wells-olde-time-newfoundland-songs-tickets-2002352886385\nVia: Even
+ tbrite\nLocal time: Thu Nov 05 2026 07:30 PM NT
+URL:https://www.eventbrite.ca/e/2nd-show-added-alan-doyle-greg-wells-olde-time-newfoundland-songs-tickets-2002352886385
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:379f2dc939f90fcb2d90ad8f27ec76df4b8ee59e@nearby-virtual
+DTSTAMP:20261027T132357Z
+DTSTART:20261031T173000Z
+DTEND:20261031T193000Z
+SUMMARY:The Haunting of Power's Pond: HALLOWEEN EVENT
+LOCATION:Power's Pond\, 43 Clyde Avenue\, Mount Pearl\, NL A1N 4S2\, Moun
+ t Pearl\, NL
+DESCRIPTION:Source: https://www.eventbrite.ca/e/the-haunting-of-powers-po
+ nd-halloween-event-tickets-2002937095771\nVia: Eventbrite\nLocal time: Sa
+ t Oct 31 2026 03:00 PM NT
+URL:https://www.eventbrite.ca/e/the-haunting-of-powers-pond-halloween-event-tickets-2002937095771
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9c797046de4a3770a5038cd6eb0438af40f44c7d@nearby-virtual
+DTSTAMP:20261027T132357Z
+DTSTART:20261031T220000Z
+DTEND:20261101T020000Z
+SUMMARY:Halloween Dance with Billy & The Bruisers for School Lunch Associ
+ ation
+LOCATION:Bella Vista Events Venue\, 26 Torbay Road\, St. John's\, NL A2A 
+ 2G4\, St. John's\, NL
+DESCRIPTION:Source: https://www.eventbrite.ca/e/halloween-dance-with-bill
+ y-the-bruisers-for-school-lunch-association-tickets-2002646977018\nVia: E
+ ventbrite\nLocal time: Sat Oct 31 2026 07:30 PM NT
+URL:https://www.eventbrite.ca/e/halloween-dance-with-billy-the-bruisers-for-school-lunch-association-tickets-2002646977018
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:16fa463c931a3a11231fdd0450cdab27bb3b3737@nearby-virtual
+DTSTAMP:20261027T132357Z
+DTSTART:20261101T173000Z
+DTEND:20261101T183000Z
+SUMMARY:Kingsley Alozie in Concert: Finding Home in Song
+LOCATION:200 Military Rd\, 200 Military Road\, St. John's\, NL A1C 2E8\, 
+ St. John's\, NL
+DESCRIPTION:Source: https://www.eventbrite.com/e/kingsley-alozie-in-conce
+ rt-finding-home-in-song-tickets-2002424302994\nVia: Eventbrite\nLocal tim
+ e: Sun Nov 01 2026 02:00 PM NT
+URL:https://www.eventbrite.com/e/kingsley-alozie-in-concert-finding-home-in-song-tickets-2002424302994
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5cfe7fdafca58d00e81894cfab0b8f4f4f292e15@nearby-virtual
+DTSTAMP:20261027T132357Z
+DTSTART:20261101T180000Z
+DTEND:20261101T193000Z
+SUMMARY:Royal Newfoundland Regiment Band
+LOCATION:Trinity Hall Inc.\, 258 Main Road\, Winterton\, NL A0B 3M0\, Win
+ terton\, NL
+DESCRIPTION:Source: https://www.eventbrite.ca/e/royal-newfoundland-regime
+ nt-band-tickets-2002938903177\nVia: Eventbrite\nLocal time: Sun Nov 01 20
+ 26 02:30 PM NT
+URL:https://www.eventbrite.ca/e/royal-newfoundland-regiment-band-tickets-2002938903177
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:070fa624c38feb0ec84b7094525848ae0b5822fd@nearby-virtual
+DTSTAMP:20261027T132357Z
+DTSTART:20261107T223000Z
+DTEND:20261108T000000Z
+SUMMARY:Newman Sound presents Letters Home: Letters from the Front Lines
+LOCATION:Anglican Cathedral of St. John the Baptist\, 16 Church Hill\, St
+ . John's\, NL A1C 3Z9\, St. John's\, NL
+DESCRIPTION:Source: https://www.eventbrite.com/e/newman-sound-presents-le
+ tters-home-letters-from-the-front-lines-tickets-2003674539485\nVia: Event
+ brite\nLocal time: Sat Nov 07 2026 07:00 PM NT
+URL:https://www.eventbrite.com/e/newman-sound-presents-letters-home-letters-from-the-front-lines-tickets-2003674539485
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f9f54b11d2cc4d84fe2d9ddddd7f2af2eb74901b@nearby-virtual
+DTSTAMP:20261027T132357Z
+DTSTART:20261108T183000Z
+DTEND:20261108T203000Z
+SUMMARY:Songs of Remembrance
+LOCATION:Gower Street United Church\, 99 Queen's Road\, St. John's\, NL A
+ 1C 6M6\, St. John's\, NL
+DESCRIPTION:Source: https://www.eventbrite.ca/e/songs-of-remembrance-tick
+ ets-2001672608656\nVia: Eventbrite\nLocal time: Sun Nov 08 2026 03:00 PM 
+ NT
+URL:https://www.eventbrite.ca/e/songs-of-remembrance-tickets-2001672608656
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e7ecf89451b8ef07e3e8cddc419745985f67221c@nearby-virtual
+DTSTAMP:20261027T132357Z
+DTSTART:20261113T010000Z
+DTEND:20261113T030000Z
+SUMMARY:Andrew Rodgers & Nick Earle Unplugged
+LOCATION:The Ship Pub\, 265 Duckworth Street\, St. John's\, NL A1C 1G9
+DESCRIPTION:Source: https://www.eventbrite.com/e/andrew-rodgers-nick-earl
+ e-unplugged-st-johns-tickets-2001268722622\nVia: Eventbrite\nLocal time: 
+ Thu Nov 12 2026 09:30 PM NT\nDoors 8:30 PM. 19+. No refunds. Presented by
+  Hard Ticket Productions.
+URL:https://www.eventbrite.com/e/andrew-rodgers-nick-earle-unplugged-st-johns-tickets-2001268722622
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1c775b429a6856970a4ef99773764b894b307e6c@nearby-virtual
+DTSTAMP:20261027T132357Z
+DTSTART:20261113T233000Z
+DTEND:20261114T023000Z
+SUMMARY:Loser Like Me: The Glee Drag Show
+LOCATION:Landwash Brewery\, 181 Commonwealth Avenue\, Mount Pearl\, NL A1
+ N 4L3\, Mount Pearl\, NL
+DESCRIPTION:Source: https://www.eventbrite.com/e/loser-like-me-the-glee-d
+ rag-show-tickets-2003795815224\nVia: Eventbrite\nLocal time: Fri Nov 13 2
+ 026 08:00 PM NT
+URL:https://www.eventbrite.com/e/loser-like-me-the-glee-drag-show-tickets-2003795815224
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:64c2bed86386cebe3fdf12a7f4f87eca7637af9c@nearby-virtual
+DTSTAMP:20261027T132357Z
+DTSTART:20261114T003000Z
+DTEND:20261114T030000Z
+SUMMARY:The Celtic Fiddlers at The Ship Pub
+LOCATION:The Ship Pub\, 265 Duckworth Street\, St. John's\, NL A1C 1G9\, 
+ St. John's\, NL
+DESCRIPTION:Source: https://www.eventbrite.com/e/the-celtic-fiddlers-at-t
+ he-ship-pub-tickets-2002912072927\nVia: Eventbrite\nLocal time: Fri Nov 1
+ 3 2026 09:00 PM NT
+URL:https://www.eventbrite.com/e/the-celtic-fiddlers-at-the-ship-pub-tickets-2002912072927
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3debecd3c971127cd514a87fa1a2b565ed088ecf@nearby-virtual
+DTSTAMP:20261027T132357Z
+DTSTART:20261115T233000Z
+DTEND:20261116T020000Z
+SUMMARY:"Organized Chaos" - Magic and Mentalism feat. Comedy Guests
+LOCATION:The Newfoundland Embassy\, 79-81 New Gower St.\, St. John's\, NL
+  A1C 1J5\, St. John's\, NL
+DESCRIPTION:Source: https://www.eventbrite.ca/e/organized-chaos-magic-and
+ -mentalism-feat-comedy-guests-tickets-2003520076482\nVia: Eventbrite\nLoc
+ al time: Sun Nov 15 2026 08:00 PM NT
+URL:https://www.eventbrite.ca/e/organized-chaos-magic-and-mentalism-feat-comedy-guests-tickets-2003520076482
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0d4baabbb7c69b8f9680ce4a3843d61771cb4458@nearby-virtual
+DTSTAMP:20261027T132357Z
+DTSTART:20261121T223000Z
+DTEND:20261122T013000Z
+SUMMARY:Hoppy Holidays (Night 2)
+LOCATION:St. John's Farmers' Market\, 245 Freshwater Road\, St. John's\, 
+ NL A1B 1B3\, St. John's\, NL
+DESCRIPTION:Source: https://www.eventbrite.ca/e/hoppy-holidays-night-2-ti
+ ckets-1999124125073\nVia: Eventbrite\nLocal time: Sat Nov 21 2026 07:00 P
+ M NT
+URL:https://www.eventbrite.ca/e/hoppy-holidays-night-2-tickets-1999124125073
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:62f56600195478e37469f3020885639b85894773@nearby-virtual
+DTSTAMP:20261027T132357Z
+DTSTART:20261128T223000Z
+DTEND:20261129T003000Z
+SUMMARY:Tara Gereaux at Bannerman Brewing
+LOCATION:Bannerman Brewing Co.\, 90 Duckworth Street\, St. John's\, NL A1
+ C 1E7\, St. John's\, NL
+DESCRIPTION:Source: https://www.eventbrite.com/e/tara-gereaux-at-bannerma
+ n-brewing-tickets-2002953849883\nVia: Eventbrite\nLocal time: Sat Nov 28 
+ 2026 07:00 PM NT
+URL:https://www.eventbrite.com/e/tara-gereaux-at-bannerman-brewing-tickets-2002953849883
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f492cfb2b6f13e9cb14d4a48b6ea175a7e0672d9@nearby-virtual
+DTSTAMP:20261027T132357Z
+DTSTART:20261202T223000Z
+DTEND:20261203T010000Z
+SUMMARY:Paul Baloche Christmas Tour ||  St. John's  NL
+LOCATION:Elim Pentecostal Tabernacle\, 565 Kenmount Road\, St. John's\, N
+ L A1B 3P9\, St. John's\, NL
+DESCRIPTION:Source: https://www.eventbrite.ca/e/paul-baloche-christmas-to
+ ur-st-johns-nl-tickets-1999026354639\nVia: Eventbrite\nLocal time: Wed De
+ c 02 2026 07:00 PM NT
+URL:https://www.eventbrite.ca/e/paul-baloche-christmas-tour-st-johns-nl-tickets-1999026354639
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:821fc84274d91ad7cb7efb79d0ac701764b64a1f@nearby-virtual
+DTSTAMP:20261027T132357Z
+DTSTART:20261213T173000Z
+DTEND:20261213T193000Z
+SUMMARY:A Time for Christmas\, hosted by The Celtic Fiddlers
+LOCATION:The Ship Pub\, 265 Duckworth Street\, St. John's\, NL A1C 1G9\, 
+ St. John's\, NL
+DESCRIPTION:Source: https://www.eventbrite.com/e/a-time-for-christmas-hos
+ ted-by-the-celtic-fiddlers-tickets-2002912326686\nVia: Eventbrite\nLocal 
+ time: Sun Dec 13 2026 02:00 PM NT
+URL:https://www.eventbrite.com/e/a-time-for-christmas-hosted-by-the-celtic-fiddlers-tickets-2002912326686
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7707b03ca2b2f5e2fb14c14d26b8b17eb7deb146@nearby-virtual
+DTSTAMP:20261027T132357Z
+DTSTART:20261223T233000Z
+DTEND:20261224T053000Z
+SUMMARY:Shanneyganock Annual Tibbs Eve Party
+LOCATION:Shenanigans\, 538 Conception Bay Highway\, Conception Bay South\
+ , NL A1X 7M8\, Conception Bay South\, NL
+DESCRIPTION:Source: https://www.eventbrite.ca/e/shanneyganock-annual-tibb
+ s-eve-party-tickets-2003450890545\nVia: Eventbrite\nLocal time: Wed Dec 2
+ 3 2026 08:00 PM NT
+URL:https://www.eventbrite.ca/e/shanneyganock-annual-tibbs-eve-party-tickets-2003450890545
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:883c5a2dcf3c29e7569b0c9f4746f7401a06ee85@nearby-virtual
+DTSTAMP:20261027T132357Z
+DTSTART:20261030T213000Z
+DTEND:20261030T233000Z
+SUMMARY:Shallaway: Shall'oween - Play in the Dark
+LOCATION:Holy Heart Theatre\, 55 Bonaventure Avenue\, St. John's\, NL
+DESCRIPTION:Source: https://holyhearttheatre.com/\nVia: Holy Heart Theatr
+ e\nLocal time: Fri Oct 30 2026 07:00 PM NT
+URL:https://holyhearttheatre.com/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7e4811a67126a1cb2c58f94eae61df7080c86e88@nearby-virtual
+DTSTAMP:20261027T132357Z
+DTSTART:20261127T223000Z
+DTEND:20261128T003000Z
+SUMMARY:Miracle on 34th Street (HHM Mainstage)
+LOCATION:Holy Heart Theatre\, 55 Bonaventure Avenue\, St. John's\, NL
+DESCRIPTION:Source: https://holyhearttheatre.com/\nVia: Holy Heart Theatr
+ e\nLocal time: Fri Nov 27 2026 07:00 PM NT
+URL:https://holyhearttheatre.com/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:378cd38d105fe3c95d8797bbd165d624ff37cdab@nearby-virtual
+DTSTAMP:20261027T132357Z
+DTSTART:20261128T223000Z
+DTEND:20261129T003000Z
+SUMMARY:Miracle on 34th Street (HHM Mainstage)
+LOCATION:Holy Heart Theatre\, 55 Bonaventure Avenue\, St. John's\, NL
+DESCRIPTION:Source: https://holyhearttheatre.com/\nVia: Holy Heart Theatr
+ e\nLocal time: Sat Nov 28 2026 07:00 PM NT
+URL:https://holyhearttheatre.com/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:682cc650f9682f1fd62adb6510ae0388cdb4bcc3@nearby-virtual
+DTSTAMP:20261027T132357Z
+DTSTART:20261128T230000Z
+DTEND:20261129T010000Z
+SUMMARY:Lady Cove Women's Choir: A World of Wonder - Across the Winter Sk
+ y
+LOCATION:St. Andrew's Church (The Kirk)\, Queen's Road\, St. John's\, NL
+DESCRIPTION:Source: https://holyhearttheatre.com/\nVia: Holy Heart Theatr
+ e\nLocal time: Sat Nov 28 2026 07:30 PM NT
+URL:https://holyhearttheatre.com/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:70d7a195cb779c2bb94e913ddbabb4800c208c36@nearby-virtual
+DTSTAMP:20261027T132357Z
+DTSTART:20261202T223000Z
+DTEND:20261203T010000Z
+SUMMARY:Stars on Ice "Holiday"
+LOCATION:Mary Brown's Centre\, 50 New Gower Street\, St. John's\, NL
+DESCRIPTION:Source: https://mbcentre.ca/event/stars-on-ice-holiday/\nVia:
+  Mary Brown's Centre\nLocal time: Wed Dec 02 2026 07:00 PM NT
+URL:https://mbcentre.ca/event/stars-on-ice-holiday/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e3dc4e3c16d511fb83682309a696fd68cd58fc9b@nearby-virtual
+DTSTAMP:20261027T132357Z
+DTSTART:20261205T230000Z
+DTEND:20261206T010000Z
+SUMMARY:NL Promotions: A Christmas to Remember
+LOCATION:Holy Heart Theatre\, 55 Bonaventure Avenue\, St. John's\, NL
+DESCRIPTION:Source: https://holyhearttheatre.com/\nVia: Holy Heart Theatr
+ e\nLocal time: Sat Dec 05 2026 07:30 PM NT
+URL:https://holyhearttheatre.com/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:62ff82faaa394e24cd2922f614c8e68f83b2e19f@nearby-virtual
+DTSTAMP:20261027T132357Z
+DTSTART:20261207T223000Z
+DTEND:20261208T003000Z
+SUMMARY:Shallaway: Christmas Around the World - Play in the Light
+LOCATION:Basilica of St. John the Baptist\, Military Road\, St. John's\, 
+ NL
+DESCRIPTION:Source: https://holyhearttheatre.com/\nVia: Holy Heart Theatr
+ e\nLocal time: Mon Dec 07 2026 07:00 PM NT
+URL:https://holyhearttheatre.com/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2e2e166736dc388abdf6bf19073e06ebaaac54bc@nearby-virtual
+DTSTAMP:20261027T132357Z
+DTSTART:20261208T223000Z
+DTEND:20261209T003000Z
+SUMMARY:Shallaway: Christmas Around the World - Play in the Light
+LOCATION:Basilica of St. John the Baptist\, Military Road\, St. John's\, 
+ NL
+DESCRIPTION:Source: https://holyhearttheatre.com/\nVia: Holy Heart Theatr
+ e\nLocal time: Tue Dec 08 2026 07:00 PM NT
+URL:https://holyhearttheatre.com/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d6269f5a14005b9fd448289190990df2a9eb1cbb@nearby-virtual
+DTSTAMP:20261027T132357Z
+DTSTART:20261212T230000Z
+DTEND:20261213T013000Z
+SUMMARY:Christmas with Johnny Reid
+LOCATION:Mary Brown's Centre\, 50 New Gower Street\, St. John's\, NL
+DESCRIPTION:Source: https://mbcentre.ca/event/christmas-with-johnny-reid/
+ \nVia: Mary Brown's Centre\nLocal time: Sat Dec 12 2026 07:30 PM NT
+URL:https://mbcentre.ca/event/christmas-with-johnny-reid/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:85b9b22c40335fd0330fdc1161b02a143dc6a3c0@nearby-virtual
+DTSTAMP:20261027T132357Z
+DTSTART:20261215T233000Z
+DTEND:20261216T010000Z
+SUMMARY:A Time in the Old Hall: Songs and Recitations of the Season
+LOCATION:LSPU Hall\, 3 Victoria Street\, St. John's\, NL
+DESCRIPTION:Source: https://lspuhall.ca/hall/current-upcoming/\nVia: Reso
+ urce Centre for the Arts\nLocal time: Tue Dec 15 2026 08:00 PM NT
+URL:https://lspuhall.ca/hall/current-upcoming/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bea69cd35cc0e524131e1a1f321f8ef5c334b46e@nearby-virtual
+DTSTAMP:20261027T132357Z
+DTSTART:20261218T230000Z
+DTEND:20261219T010000Z
+SUMMARY:The Once Christmas
+LOCATION:Wesley United Church\, 101 Patrick Street\, St. John's\, NL
+DESCRIPTION:Source: https://holyhearttheatre.com/\nVia: Holy Heart Theatr
+ e\nLocal time: Fri Dec 18 2026 07:30 PM NT
+URL:https://holyhearttheatre.com/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f06093f6db141d069e0eff46b46cb12608432ed0@nearby-virtual
+DTSTAMP:20261027T132357Z
+DTSTART:20261219T230000Z
+DTEND:20261220T010000Z
+SUMMARY:Christmas with The Ennis Sisters
+LOCATION:Holy Heart Theatre\, 55 Bonaventure Avenue\, St. John's\, NL
+DESCRIPTION:Source: https://holyhearttheatre.com/\nVia: Holy Heart Theatr
+ e\nLocal time: Sat Dec 19 2026 07:30 PM NT
+URL:https://holyhearttheatre.com/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2142e7e6b42ac2737e13463c075846d86183da92@nearby-virtual
+DTSTAMP:20261027T132357Z
+DTSTART:20261223T233000Z
+DTEND:20261224T013000Z
+SUMMARY:The Irish Descendants Christmas
+LOCATION:Arts and Culture Centre\, 95 Allandale Road\, St. John's\, NL
+DESCRIPTION:Source: https://theirishdescendants.com/elementor-9955/\nVia:
+  Band tour page\nLocal time: Wed Dec 23 2026 08:00 PM NT
+URL:https://theirishdescendants.com/elementor-9955/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f0f07cd87417a6932c0650ebfd273dea1cdfe10a@nearby-virtual
+DTSTAMP:20261027T132357Z
+DTSTART:20261028T213000Z
+DTEND:20261028T233000Z
+SUMMARY:Kyla Cobbler: Gone Rogue Live
+LOCATION:Arts and Culture Centre\, 95 Allandale Road\, St. John's\, NL
+DESCRIPTION:Source: https://destinationstjohns.com/event/kyla-cobbler-gon
+ e-rogue-live/\nVia: Destination St. John's\nLocal time: Wed Oct 28 2026 0
+ 7:00 PM NT
+URL:https://destinationstjohns.com/event/kyla-cobbler-gone-rogue-live/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bf7ca4f95ef1ace106ce9a30c0d29f17536101c6@nearby-virtual
+DTSTAMP:20261027T132357Z
+DTSTART:20261105T153000Z
+DTEND:20261105T223000Z
+SUMMARY:Craft Council of NL Christmas Craft Fair (runs Nov 5-8)
+LOCATION:Jack Byrne Arena\, 7 Kennedys Brook Drive\, Torbay\, NL
+DESCRIPTION:Source: https://www.craftcouncilnl.ca/craft-fair/craft-fair\n
+ Via: Craft Council NL\nLocal time: Thu Nov 05 2026 12:00 PM NT
+URL:https://www.craftcouncilnl.ca/craft-fair/craft-fair
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b00159495649f44459579802f184d43fdd3cf472@nearby-virtual
+DTSTAMP:20261027T132357Z
+DTSTART:20261129T153000Z
+DTEND:20261129T173000Z
+SUMMARY:Downtown St. John's Christmas Parade
+LOCATION:Downtown St. John's\, NL
+DESCRIPTION:Source: https://downtownstjohns.com/signature-events/christma
+ s-parade/\nVia: Downtown St. John's\nLocal time: Sun Nov 29 2026 12:00 PM
+  NT
+URL:https://downtownstjohns.com/signature-events/christmas-parade/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

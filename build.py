@@ -49,6 +49,13 @@ L+=[
 ("2026-11-19T13:00:00-05:00","2026-11-19T14:00:00-05:00","Energy Strategy: How Hyperscalers and AI Labs Are Securing Power","Online (Wood Mackenzie)","https://www.woodmac.com/events/2026-large-loads-and-data-centre-webinar-series/","Organiser page",1,""),
 ]
 NOW=datetime.now(timezone.utc)
+# Entertainment = picks flagged 'ENT', personal_radar rows ('R'), plus these hand-classified titles.
+ENT_TITLES={"2nd Show Added: Alan Doyle & Greg Wells - Olde-Time Newfoundland Songs!","Kyla Cobbler: Gone Rogue Live",
+ "Craft Council of NL Christmas Craft Fair (runs Nov 5-8)","Downtown St. John's Christmas Parade"}
+# Display overrides keyed by original title (UID keeps the original key so subscribers don't get duplicates).
+OVR={"ANDREW RODGERS & NICK EARLE UNPLUGGED - St. John's":dict(title="Andrew Rodgers & Nick Earle Unplugged",
+ loc="The Ship Pub, 265 Duckworth Street, St. John's, NL A1C 1G9",
+ note="Doors 8:30 PM. 19+. No refunds. Presented by Hard Ticket Productions.")}
 def p(s):
   if s.startswith('R'): return datetime.fromisoformat(s[1:]).replace(tzinfo=TZ)
   return datetime.fromisoformat(s.replace('Z','+00:00'))
@@ -61,23 +68,30 @@ def fold(l):
     out.append(b[:i].decode());b=b[i:]
   out.append(b.decode());return '\r\n '.join(out)
 now=datetime.now(timezone.utc).strftime('%Y%m%dT%H%M%SZ')
-seen=set();lines=["BEGIN:VCALENDAR","VERSION:2.0","PRODID:-//Grok Bot//Nearby + Virtual//EN","CALSCALE:GREGORIAN","METHOD:PUBLISH","X-WR-CALNAME:Nearby + Virtual","X-WR-TIMEZONE:America/St_Johns","REFRESH-INTERVAL;VALUE=DURATION:PT12H","X-PUBLISHED-TTL:PT12H"]
+seen=set()
+def H(name,color,prod):
+  return ["BEGIN:VCALENDAR","VERSION:2.0",f"PRODID:-//Grok Bot//{prod}//EN","CALSCALE:GREGORIAN","METHOD:PUBLISH",f"X-WR-CALNAME:{name}",f"X-APPLE-CALENDAR-COLOR:{color}","X-WR-TIMEZONE:America/St_Johns","REFRESH-INTERVAL;VALUE=DURATION:PT12H","X-PUBLISHED-TTL:PT12H"]
+OUT={'events':H('Nearby + Virtual','#34C759','Nearby + Virtual'),'entertainment':H("St. John's Entertainment",'#FF3B30',"St. Johns Entertainment")}
+FILES={'events':'nearby-virtual.ics','entertainment':'entertainment.ics'}
 rows=[]
 for s,e,t,loc,url,src,v,n in L:
   st=p(s);en=p(e) if e and 'T' in e else st+timedelta(hours=2)
   if en<NOW: continue
-  title=("[virtual] " if v else "")+t
   k=(st.astimezone(timezone.utc).isoformat(),t.lower())
   if k in seen: continue
   seen.add(k)
+  cat='entertainment' if (not v and (n in('ENT','R') or t in ENT_TITLES)) else 'events'
+  o=OVR.get(t,{});t2=o.get('title',t);loc=o.get('loc',loc)
+  title=("[virtual] " if v else "")+t2
   d=f"Source: {url}\nVia: {src}\nLocal time: {st.astimezone(TZ):%a %b %d %Y %I:%M %p} NT"
+  if o.get('note'): d+="\n"+o['note']
   if n=="R": d+="\nEnd time not published; 2h placeholder."
   uid=hashlib.sha1((k[0]+k[1]).encode()).hexdigest()+"@nearby-virtual"
-  lines+= ["BEGIN:VEVENT",f"UID:{uid}",f"DTSTAMP:{now}",f"DTSTART:{st.astimezone(timezone.utc):%Y%m%dT%H%M%SZ}",f"DTEND:{en.astimezone(timezone.utc):%Y%m%dT%H%M%SZ}",fold("SUMMARY:"+esc(title)),fold("LOCATION:"+esc(loc)),fold("DESCRIPTION:"+esc(d)),f"URL:{url}","TRANSP:TRANSPARENT","END:VEVENT"]
-  rows.append((st.astimezone(TZ).strftime('%Y-%m-%d %H:%M NT'),title,src,url))
+  OUT[cat]+= ["BEGIN:VEVENT",f"UID:{uid}",f"DTSTAMP:{now}",f"DTSTART:{st.astimezone(timezone.utc):%Y%m%dT%H%M%SZ}",f"DTEND:{en.astimezone(timezone.utc):%Y%m%dT%H%M%SZ}",fold("SUMMARY:"+esc(title)),fold("LOCATION:"+esc(loc)),fold("DESCRIPTION:"+esc(d)),f"URL:{url}","TRANSP:TRANSPARENT","END:VEVENT"]
+  rows.append((st.astimezone(TZ).strftime('%Y-%m-%d %H:%M NT'),title,src,url,cat))
 rows.sort()
-lines.append("END:VCALENDAR")
-open('nearby-virtual.ics','w',newline='').write('\r\n'.join(lines)+'\r\n')
+for c,ls in OUT.items():
+  open(FILES[c],'w',newline='').write('\r\n'.join(ls+["END:VCALENDAR"])+'\r\n')
 json.dump(rows,open('events.json','w'),indent=1)
-for r in sorted(rows): print(r[0],'|',r[1],'|',r[2])
-print(len(rows))
+for r in rows: print(r[0],'|',r[4],'|',r[1])
+from collections import Counter;print(len(rows),Counter(r[4] for r in rows))
