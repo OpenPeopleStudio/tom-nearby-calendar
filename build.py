@@ -36,6 +36,19 @@ L=[ # (start,end,title,location,url,source,virtual,note)
 ("2026-11-19T13:00:00-05:00","2026-11-19T15:00:00-05:00","November 2026 Online VC Fast Pitch.","Online (Black Dog Venture Partners)","https://www.eventbrite.com/e/november-2026-online-vc-fast-pitch-tickets-2003376111880","Eventbrite",1,""),
 ("2026-11-19T19:00:00-05:00","2026-11-19T20:00:00-05:00","Co-Founder Matching Online Event | Find a Startup Business Partner","Online (FoundersBeta)","https://www.eventbrite.ca/e/co-founder-matching-online-event-find-a-startup-business-partner-tickets-2003243556403","Eventbrite",1,""),
 ]
+# --- Expansion 2026-10-26 (pass 2) ---
+L+=[tuple(x) for x in json.load(open('s2/picks.json'))]
+L+=[
+("2026-10-28T19:00:00-02:30","2026-10-28T21:00:00-02:30","Kyla Cobbler: Gone Rogue Live","Arts and Culture Centre, 95 Allandale Road, St. John's, NL","https://destinationstjohns.com/event/kyla-cobbler-gone-rogue-live/","Destination St. John's",0,""),
+("2026-11-05T08:30:00-03:30","2026-11-05T12:30:00-03:30","Business and Arts NL (Un)Common Threads: Creativity & Innovation Summit 2026","Sheraton Hotel Newfoundland, 115 Cavendish Square, St. John's, NL","https://businessandartsnl.com/uncommon-threads/summit-2026","Destination St. John's",0,""),
+("2026-11-05T10:00:00-03:30","2026-11-05T11:30:00-03:30","Board of Trade Coffee & Connect","The Board of Trade, Cabot Building 8th Floor, 100 New Gower St, St. John's, NL","https://members.theboardoftrade.ca/events/details/coffee-connect-4618","The Board of Trade",0,""),
+("2026-11-05T12:00:00-03:30","2026-11-05T19:00:00-03:30","Craft Council of NL Christmas Craft Fair (runs Nov 5-8)","Jack Byrne Arena, 7 Kennedys Brook Drive, Torbay, NL","https://www.craftcouncilnl.ca/craft-fair/craft-fair","Craft Council NL",0,""),
+("2026-11-26T17:00:00-03:30","2026-11-26T23:00:00-03:30","2026 Board of Trade Business Awards Gala","Delta Hotel, 120 New Gower Street, St. John's, NL","https://members.theboardoftrade.ca/events/details/2026-board-of-trade-business-awards-4575","The Board of Trade",0,""),
+("2026-11-29T12:00:00-03:30","2026-11-29T14:00:00-03:30","Downtown St. John's Christmas Parade","Downtown St. John's, NL","https://downtownstjohns.com/signature-events/christmas-parade/","Downtown St. John's",0,""),
+("2026-11-05T12:00:00-07:00","2026-11-05T13:00:00-07:00","Data Centres: Are We Regulating Intelligently? (Alberta)","Online (Environmental Law Centre)","https://elc.ab.ca/post-library/webinar-data-centres-are-we-regulating-intelligently/","Organiser page",1,""),
+("2026-11-19T13:00:00-05:00","2026-11-19T14:00:00-05:00","Energy Strategy: How Hyperscalers and AI Labs Are Securing Power","Online (Wood Mackenzie)","https://www.woodmac.com/events/2026-large-loads-and-data-centre-webinar-series/","Organiser page",1,""),
+]
+NOW=datetime.now(timezone.utc)
 def p(s):
   if s.startswith('R'): return datetime.fromisoformat(s[1:]).replace(tzinfo=TZ)
   return datetime.fromisoformat(s.replace('Z','+00:00'))
@@ -52,6 +65,7 @@ seen=set();lines=["BEGIN:VCALENDAR","VERSION:2.0","PRODID:-//Grok Bot//Nearby + 
 rows=[]
 for s,e,t,loc,url,src,v,n in L:
   st=p(s);en=p(e) if e else st+timedelta(hours=2)
+  if en<NOW: continue
   title=("[virtual] " if v else "")+t
   k=(st.astimezone(timezone.utc).isoformat(),t.lower())
   if k in seen: continue
@@ -61,6 +75,7 @@ for s,e,t,loc,url,src,v,n in L:
   uid=hashlib.sha1((k[0]+k[1]).encode()).hexdigest()+"@nearby-virtual"
   lines+= ["BEGIN:VEVENT",f"UID:{uid}",f"DTSTAMP:{now}",f"DTSTART:{st.astimezone(timezone.utc):%Y%m%dT%H%M%SZ}",f"DTEND:{en.astimezone(timezone.utc):%Y%m%dT%H%M%SZ}",fold("SUMMARY:"+esc(title)),fold("LOCATION:"+esc(loc)),fold("DESCRIPTION:"+esc(d)),f"URL:{url}","TRANSP:TRANSPARENT","END:VEVENT"]
   rows.append((st.astimezone(TZ).strftime('%Y-%m-%d %H:%M NT'),title,src,url))
+rows.sort()
 lines.append("END:VCALENDAR")
 open('nearby-virtual.ics','w',newline='').write('\r\n'.join(lines)+'\r\n')
 json.dump(rows,open('events.json','w'),indent=1)

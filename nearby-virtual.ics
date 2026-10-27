@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:a546277de4e4b357c9a9aa0c21b703ae8a929c9d@nearby-virtual
-DTSTAMP:20261026T221159Z
+DTSTAMP:20261027T003637Z
 DTSTART:20261028T183000Z
 DTEND:20261028T203000Z
 SUMMARY:Know Your Audience: Build Meaningful Connections
@@ -23,7 +23,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:129e808360271502a5f37582f80838c1d575cc37@nearby-virtual
-DTSTAMP:20261026T221159Z
+DTSTAMP:20261027T003637Z
 DTSTART:20261029T113000Z
 DTEND:20261029T124500Z
 SUMMARY:Export Café YYT (Featuring UK Government's Department for BIST)
@@ -37,7 +37,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:f58f068ea3427d1592fe1dd638e41294a3f7e7bd@nearby-virtual
-DTSTAMP:20261026T221159Z
+DTSTAMP:20261027T003637Z
 DTSTART:20261030T110000Z
 DTEND:20261030T123000Z
 SUMMARY:Tequity+ What Progress Requires: Gloria Steinem's Legacy and the 
@@ -51,7 +51,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:96a4d6754399016f4b354ae562520e0a86f50bba@nearby-virtual
-DTSTAMP:20261026T221159Z
+DTSTAMP:20261027T003637Z
 DTSTART:20261030T130000Z
 DTEND:20261030T160000Z
 SUMMARY:Banking\, Finance & Insurance: Careers and Connections
@@ -65,7 +65,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:3939dee53e35e115ecf030156e641096db9e8203@nearby-virtual
-DTSTAMP:20261026T221159Z
+DTSTAMP:20261027T003637Z
 DTSTART:20261103T133000Z
 DTEND:20261103T203000Z
 SUMMARY:2026 Atlantic Canada Mineral Processors (CMP) Conference
@@ -79,7 +79,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:3060f623067b4b1af9b5dc71edc26d1f02c3ac8b@nearby-virtual
-DTSTAMP:20261026T221159Z
+DTSTAMP:20261027T003637Z
 DTSTART:20261103T173000Z
 DTEND:20261103T203000Z
 SUMMARY:St. John's: Founder Bootcamp
@@ -92,7 +92,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:b15d801422b2de3f8349d6549c8c90f10995b868@nearby-virtual
-DTSTAMP:20261026T221159Z
+DTSTAMP:20261027T003637Z
 DTSTART:20261107T213000Z
 DTEND:20261108T000000Z
 SUMMARY:Connect. Empower. Elevate. | Newfoundland & Labrador Networking E
@@ -106,7 +106,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:f8cb6d420eaf9cc1fb764562cec3047abdd6a31b@nearby-virtual
-DTSTAMP:20261026T221159Z
+DTSTAMP:20261027T003637Z
 DTSTART:20261120T120000Z
 DTEND:20261120T160000Z
 SUMMARY:CES-NL 2026 Professional Development Conference
@@ -120,7 +120,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:21f0b48d4087a2973d685959e16b5cfec100c74e@nearby-virtual
-DTSTAMP:20261026T221159Z
+DTSTAMP:20261027T003637Z
 DTSTART:20261121T213000Z
 DTEND:20261122T013000Z
 SUMMARY:Demo Night 6
@@ -132,7 +132,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:896fcbe24f8e0292700f0d6f8e7908bddb8cebac@nearby-virtual
-DTSTAMP:20261026T221159Z
+DTSTAMP:20261027T003637Z
 DTSTART:20261108T223000Z
 DTEND:20261109T003000Z
 SUMMARY:Raine Maida & Chantal Kreviazuk at JAG
@@ -145,7 +145,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:105231d88970e5822a9f589da13c4c1773382c76@nearby-virtual
-DTSTAMP:20261026T221159Z
+DTSTAMP:20261027T003637Z
 DTSTART:20261110T233000Z
 DTEND:20261111T013000Z
 SUMMARY:The Last Waltz 50th Anniversary at JAG
@@ -158,7 +158,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2f6a2d2f9f790705bac4631c28b540817eaa96aa@nearby-virtual
-DTSTAMP:20261026T221159Z
+DTSTAMP:20261027T003637Z
 DTSTART:20261119T233000Z
 DTEND:20261120T013000Z
 SUMMARY:HYPROV at JAG
@@ -171,7 +171,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:a932ff179c44e03079c5926531e9c5766e819984@nearby-virtual
-DTSTAMP:20261026T221159Z
+DTSTAMP:20261027T003637Z
 DTSTART:20261121T233000Z
 DTEND:20261122T013000Z
 SUMMARY:The Trews with Wintersleep at JAG
@@ -184,7 +184,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:bbeaea0cca950fe3df3a46c0411a015f212489b8@nearby-virtual
-DTSTAMP:20261026T221159Z
+DTSTAMP:20261027T003637Z
 DTSTART:20261122T230000Z
 DTEND:20261123T010000Z
 SUMMARY:Jimmy Carr at Mary Brown's
@@ -196,7 +196,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:3f708f81cdee7ef19c7203e3b634cc339999e738@nearby-virtual
-DTSTAMP:20261026T221159Z
+DTSTAMP:20261027T003637Z
 DTSTART:20261126T230000Z
 DTEND:20261127T010000Z
 SUMMARY:Bored Teachers comedy tour at JAG
@@ -209,7 +209,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ca845587394ff4fe9172987c04bd6326dbc34c2c@nearby-virtual
-DTSTAMP:20261026T221159Z
+DTSTAMP:20261027T003637Z
 DTSTART:20261028T140000Z
 DTEND:20261028T170000Z
 SUMMARY:[virtual] AI & the Agentic Era: What It Means for Founders
@@ -222,7 +222,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2c800537723cbd2db73f0a802a9c38cfcc9e6a6d@nearby-virtual
-DTSTAMP:20261026T221159Z
+DTSTAMP:20261027T003637Z
 DTSTART:20261028T190000Z
 DTEND:20261028T203000Z
 SUMMARY:[virtual] MENTORSHOP: Using Claude AI to Build a SaaS Site in abo
@@ -236,7 +236,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:852c1d6517aae0975416257caee9f04a3aedf509@nearby-virtual
-DTSTAMP:20261026T221159Z
+DTSTAMP:20261027T003637Z
 DTSTART:20261029T150000Z
 DTEND:20261029T160000Z
 SUMMARY:[virtual] AI-Enabled Innovation and the Future of Competitive Adv
@@ -250,7 +250,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:7a8dd206fb91b3fce200bd7db00206205ce05b90@nearby-virtual
-DTSTAMP:20261026T221159Z
+DTSTAMP:20261027T003637Z
 DTSTART:20261029T180000Z
 DTEND:20261029T193000Z
 SUMMARY:[virtual] Battery Energy Storage in Alberta
@@ -263,7 +263,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:71619af3da91e81fd736270c232a1df3a8384032@nearby-virtual
-DTSTAMP:20261026T221159Z
+DTSTAMP:20261027T003637Z
 DTSTART:20261030T160000Z
 DTEND:20261030T170000Z
 SUMMARY:[virtual] Intro to Angel Investing
@@ -276,7 +276,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:6a4638aa66d51b3d461654e2faacc806cc1d2904@nearby-virtual
-DTSTAMP:20261026T221159Z
+DTSTAMP:20261027T003637Z
 DTSTART:20261102T140000Z
 DTEND:20261102T163000Z
 SUMMARY:[virtual] Investor Readiness Session (Online Workshop for Startup
@@ -290,7 +290,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:a8954236bb7b336400e641b42bddabd6f8f54aa3@nearby-virtual
-DTSTAMP:20261026T221159Z
+DTSTAMP:20261027T003637Z
 DTSTART:20261105T180000Z
 DTEND:20261105T190000Z
 SUMMARY:[virtual] From Bootstrapping to Venture Capital: The Funding Land
@@ -304,7 +304,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:30b41314d61cf7142645697f1c1943fa985b5340@nearby-virtual
-DTSTAMP:20261026T221159Z
+DTSTAMP:20261027T003637Z
 DTSTART:20261105T170000Z
 DTEND:20261105T180000Z
 SUMMARY:[virtual] From Research to Mission: Defense Innovation at MIT
@@ -317,7 +317,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:911a3dc0feedc9863b88baae3bae95cb577cc81b@nearby-virtual
-DTSTAMP:20261026T221159Z
+DTSTAMP:20261027T003637Z
 DTSTART:20261105T120000Z
 DTEND:20261105T130000Z
 SUMMARY:[virtual] How to fund your climate tech startup
@@ -330,7 +330,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:a7fbb39cd225c7b6806608df8cc9f2c2266118fe@nearby-virtual
-DTSTAMP:20261026T221159Z
+DTSTAMP:20261027T003637Z
 DTSTART:20261106T150000Z
 DTEND:20261106T170000Z
 SUMMARY:[virtual] European Venture Capital Summit
@@ -343,7 +343,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:54c6a8b112485437f9f2f28518f72f1acd0b6b2b@nearby-virtual
-DTSTAMP:20261026T221159Z
+DTSTAMP:20261027T003637Z
 DTSTART:20261110T150000Z
 DTEND:20261110T160000Z
 SUMMARY:[virtual] Venture Capital: From Lab to Launch
@@ -356,7 +356,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:08aa39637a6b02c8ce2e9629c0d3d3e3ebd288c5@nearby-virtual
-DTSTAMP:20261026T221159Z
+DTSTAMP:20261027T003637Z
 DTSTART:20261112T160000Z
 DTEND:20261112T170000Z
 SUMMARY:[virtual] Venture Trailblazers Featuring Mac Conwell
@@ -369,7 +369,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:d97cbbf007af14de66e1973afe31d8c9c9ec60d6@nearby-virtual
-DTSTAMP:20261026T221159Z
+DTSTAMP:20261027T003637Z
 DTSTART:20261117T143000Z
 DTEND:20261117T163000Z
 SUMMARY:[virtual] Power From the Past: Heritage's Role in Renewable Energ
@@ -383,7 +383,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:26cd09a99101bd8e02839fc9aee8479e72732025@nearby-virtual
-DTSTAMP:20261026T221159Z
+DTSTAMP:20261027T003637Z
 DTSTART:20261119T180000Z
 DTEND:20261119T200000Z
 SUMMARY:[virtual] November 2026 Online VC Fast Pitch.
@@ -396,7 +396,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:82dfbf0e372e5dbe4ba394ceceb910d04155e7db@nearby-virtual
-DTSTAMP:20261026T221159Z
+DTSTAMP:20261027T003637Z
 DTSTART:20261120T000000Z
 DTEND:20261120T010000Z
 SUMMARY:[virtual] Co-Founder Matching Online Event | Find a Startup Busin
@@ -406,6 +406,765 @@ DESCRIPTION:Source: https://www.eventbrite.ca/e/co-founder-matching-onlin
  e-event-find-a-startup-business-partner-tickets-2003243556403\nVia: Event
  brite\nLocal time: Thu Nov 19 2026 08:30 PM NT
 URL:https://www.eventbrite.ca/e/co-founder-matching-online-event-find-a-startup-business-partner-tickets-2003243556403
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5a4aae578fa199584cb682e337876564ab0f0afa@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261027T113000Z
+DTEND:20261027T183000Z
+SUMMARY:STM32C5 Hands-On: Designing with ST’s Newest MCUs & MEMS
+LOCATION:The Capitol Hotel\, 208 Kenmount Rd\, St. John's\, NL A1B 3P2\, 
+ St. John's\, NL
+DESCRIPTION:Source: https://www.eventbrite.ca/e/stm32c5-hands-on-designin
+ g-with-sts-newest-mcus-mems-tickets-2003147871206\nVia: Eventbrite\nLocal
+  time: Tue Oct 27 2026 09:00 AM NT
+URL:https://www.eventbrite.ca/e/stm32c5-hands-on-designing-with-sts-newest-mcus-mems-tickets-2003147871206
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a7d0655cdfe7069da6ae28699bb0b3d0272c5786@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261104T191500Z
+DTEND:20261104T204500Z
+SUMMARY:The Mining Collaboration Exchange - Speed Networking with Purpose
+LOCATION:Delta Hotels St. John's Conference Centre\, 120 New Gower Street
+ \, St. John's\, NL A1C 6K4\, St. John's\, NL
+DESCRIPTION:Source: https://www.eventbrite.ca/e/the-mining-collaboration-
+ exchange-speed-networking-with-purpose-tickets-2003661731175\nVia: Eventb
+ rite\nLocal time: Wed Nov 04 2026 03:45 PM NT
+URL:https://www.eventbrite.ca/e/the-mining-collaboration-exchange-speed-networking-with-purpose-tickets-2003661731175
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ab4d544ab7a79cff5448222062a139ec145d335f@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261104T223000Z
+DTEND:20261105T013000Z
+SUMMARY:Mining NL’s RSX Kitchen Party
+LOCATION:JAG Soundhouse\, 115 George Street West\, St. John's\, NL A1C 0B
+ 7\, St. John's\, NL
+DESCRIPTION:Source: https://www.eventbrite.ca/e/mining-nls-rsx-kitchen-pa
+ rty-tickets-1998504943083\nVia: Eventbrite\nLocal time: Wed Nov 04 2026 0
+ 7:00 PM NT
+URL:https://www.eventbrite.ca/e/mining-nls-rsx-kitchen-party-tickets-1998504943083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:70c51131a6f24ae2900e49afce42266f00d5a3d9@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261105T230000Z
+DTEND:20261106T010000Z
+SUMMARY:2nd Show Added: Alan Doyle & Greg Wells - Olde-Time Newfoundland 
+ Songs!
+LOCATION:Trinity Hall Inc.\, 258 Main Road\, Winterton\, NL A0B 3M0\, Win
+ terton\, NL
+DESCRIPTION:Source: https://www.eventbrite.ca/e/2nd-show-added-alan-doyle
+ -greg-wells-olde-time-newfoundland-songs-tickets-2002352886385\nVia: Even
+ tbrite\nLocal time: Thu Nov 05 2026 07:30 PM NT
+URL:https://www.eventbrite.ca/e/2nd-show-added-alan-doyle-greg-wells-olde-time-newfoundland-songs-tickets-2002352886385
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f4b8bde28672165dd34f0854b3ba71c41c73d070@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261127T133000Z
+DTEND:20261128T013000Z
+SUMMARY:Student Design Hub Fall Showcase 2026
+LOCATION:Sheraton Hotel Newfoundland\, 115 Cavendish Square\, St. John's\
+ , NL A1C 3K2\, St. John's\, NL
+DESCRIPTION:Source: https://www.eventbrite.com/e/student-design-hub-fall-
+ showcase-2026-tickets-2002814999578\nVia: Eventbrite\nLocal time: Fri Nov
+  27 2026 10:00 AM NT
+URL:https://www.eventbrite.com/e/student-design-hub-fall-showcase-2026-tickets-2002814999578
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:228aff6950319d2d07836a9aec3ffbcc68e7d638@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261128T183000Z
+DTEND:20261128T220000Z
+SUMMARY:Unheard Talk Series — November 2026
+LOCATION:Foran Greene Room\, City Hall\, 10 New Gower Street\, St. John's
+ \, NL\, 10 New Gower Street\, St. John's\, NL A1C 5M2\, St. John's\, NL
+DESCRIPTION:Source: https://www.eventbrite.ca/e/unheard-talk-series-novem
+ ber-2026-tickets-2003626256068\nVia: Eventbrite\nLocal time: Sat Nov 28 2
+ 026 03:00 PM NT
+URL:https://www.eventbrite.ca/e/unheard-talk-series-november-2026-tickets-2003626256068
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:aa56b57f841e62918f698717238451eecfd9023a@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261027T160000Z
+DTEND:20261030T010000Z
+SUMMARY:[virtual] ODSC AI West 2026 | Virtual Conference Registration
+LOCATION:Online (ODSC Team)
+DESCRIPTION:Source: https://www.eventbrite.com/e/odsc-ai-west-2026-virtua
+ l-conference-registration-tickets-1982432141902\nVia: Eventbrite\nLocal t
+ ime: Tue Oct 27 2026 01:30 PM NT
+URL:https://www.eventbrite.com/e/odsc-ai-west-2026-virtual-conference-registration-tickets-1982432141902
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:29afd1dc65bd81fa19357ca3749b1dde06f135cf@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261027T230000Z
+DTEND:20261028T000000Z
+SUMMARY:[virtual] AI DATA CENTER COMMUNITY EQUITY
+LOCATION:Online (BBG MEDIA)
+DESCRIPTION:Source: https://www.eventbrite.com/e/ai-data-center-community
+ -equity-tickets-2003800940554\nVia: Eventbrite\nLocal time: Tue Oct 27 20
+ 26 08:30 PM NT
+URL:https://www.eventbrite.com/e/ai-data-center-community-equity-tickets-2003800940554
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:30b289f52de10b66d5678fb94cfa7de1b83ced37@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261028T040000Z
+DTEND:20261028T050000Z
+SUMMARY:[virtual] FREE Startup Fundraising Office Hours & Pitch Practice 
+ w Investor Scott Fox
+LOCATION:Online (Startup Council & Scott Fox)
+DESCRIPTION:Source: https://www.eventbrite.com/e/free-startup-fundraising
+ -office-hours-pitch-practice-w-investor-scott-fox-registration-1222921233
+ 329\nVia: Eventbrite\nLocal time: Wed Oct 28 2026 01:30 AM NT
+URL:https://www.eventbrite.com/e/free-startup-fundraising-office-hours-pitch-practice-w-investor-scott-fox-registration-1222921233329
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e897e5635a19cd27d77bfb9d1f72436556eb2d6e@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261028T160000Z
+DTEND:20261028T173000Z
+SUMMARY:[virtual] AI for Business Development: Unlocking the Power of Gem
+ ini and G Suite
+LOCATION:Online (WEtech Alliance)
+DESCRIPTION:Source: https://www.eventbrite.ca/e/ai-for-business-developme
+ nt-unlocking-the-power-of-gemini-and-g-suite-tickets-1999267417665\nVia: 
+ Eventbrite\nLocal time: Wed Oct 28 2026 01:30 PM NT
+URL:https://www.eventbrite.ca/e/ai-for-business-development-unlocking-the-power-of-gemini-and-g-suite-tickets-1999267417665
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e828f77d02f8d94f811eac0d8718eb3b88487e3c@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261029T150000Z
+DTEND:20261030T000000Z
+SUMMARY:[virtual] Global Startup Symposium - Life Sciences & Technology S
+ tartups - Virtual
+LOCATION:Online (Pismo Ventures\, LLC)
+DESCRIPTION:Source: https://www.eventbrite.com/e/global-startup-symposium
+ -life-sciences-technology-startups-virtual-tickets-1997639266822\nVia: Ev
+ entbrite\nLocal time: Thu Oct 29 2026 12:30 PM NT
+URL:https://www.eventbrite.com/e/global-startup-symposium-life-sciences-technology-startups-virtual-tickets-1997639266822
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:253a695795d2d733acf7998bc1fd8c1707bddab9@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261029T150000Z
+DTEND:20261029T163000Z
+SUMMARY:[virtual] CONNECTpreneur INVESTOR Network: Virtual Meeting
+LOCATION:Online (CONNECTpreneur)
+DESCRIPTION:Source: https://www.eventbrite.com/e/connectpreneur-investor-
+ network-virtual-meeting-tickets-1804381446479\nVia: Eventbrite\nLocal tim
+ e: Thu Oct 29 2026 12:30 PM NT
+URL:https://www.eventbrite.com/e/connectpreneur-investor-network-virtual-meeting-tickets-1804381446479
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4e7fb2ed5a58e3109c7790e761c9fee5a05b3f22@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261029T150000Z
+DTEND:20261029T160000Z
+SUMMARY:[virtual] Benchmarking Large Load Tariffs: What Data Centers Real
+ ly Pay for Power
+LOCATION:Online (Applied Economics Clinic)
+DESCRIPTION:Source: https://www.eventbrite.com/e/benchmarking-large-load-
+ tariffs-what-data-centers-really-pay-for-power-tickets-2003305133582\nVia
+ : Eventbrite\nLocal time: Thu Oct 29 2026 12:30 PM NT
+URL:https://www.eventbrite.com/e/benchmarking-large-load-tariffs-what-data-centers-really-pay-for-power-tickets-2003305133582
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:190e0fb8a0c8a4660021f3b4829aaa09678a4b1c@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261029T160000Z
+DTEND:20261029T170000Z
+SUMMARY:[virtual] FoundersBeta Startup Awards 2026 | Discover Innovative 
+ Startups
+LOCATION:Online (FoundersBeta)
+DESCRIPTION:Source: https://www.eventbrite.ca/e/foundersbeta-startup-awar
+ ds-2026-discover-innovative-startups-tickets-2003181680330\nVia: Eventbri
+ te\nLocal time: Thu Oct 29 2026 01:30 PM NT
+URL:https://www.eventbrite.ca/e/foundersbeta-startup-awards-2026-discover-innovative-startups-tickets-2003181680330
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9dc9f49d08c07f11b7d134026594e0421b1d02e1@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261029T130000Z
+DTEND:20261029T140000Z
+SUMMARY:[virtual] How to Raise Your First VC Round
+LOCATION:Online (Founder Institute)
+DESCRIPTION:Source: https://www.eventbrite.com/e/how-to-raise-your-first-
+ vc-round-tickets-2003607491944\nVia: Eventbrite\nLocal time: Thu Oct 29 2
+ 026 10:30 AM NT
+URL:https://www.eventbrite.com/e/how-to-raise-your-first-vc-round-tickets-2003607491944
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2f7177d4d9240de7271572099b429fb89690a400@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261029T160000Z
+DTEND:20261029T180000Z
+SUMMARY:[virtual] Building with AI: A Founder’s Story and the Traps to 
+ Avoid While Building
+LOCATION:Online (Founder Institute)
+DESCRIPTION:Source: https://www.eventbrite.com/e/building-with-ai-a-found
+ ers-story-and-the-traps-to-avoid-while-building-tickets-2003820790927\nVi
+ a: Eventbrite\nLocal time: Thu Oct 29 2026 01:30 PM NT
+URL:https://www.eventbrite.com/e/building-with-ai-a-founders-story-and-the-traps-to-avoid-while-building-tickets-2003820790927
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4a7e57bfbb40d8e44b2b735ff25cd8578512b59a@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261102T100000Z
+DTEND:20261102T120000Z
+SUMMARY:[virtual] The Funding Sprint - DeepTech Hardware Founders
+LOCATION:Online (Nathalie Berezina)
+DESCRIPTION:Source: https://www.eventbrite.co.uk/e/the-funding-sprint-dee
+ ptech-hardware-founders-registration-2000753887737\nVia: Eventbrite\nLoca
+ l time: Mon Nov 02 2026 06:30 AM NT
+URL:https://www.eventbrite.co.uk/e/the-funding-sprint-deeptech-hardware-founders-registration-2000753887737
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:90af71454b57b963da25713ae1600df723fe7e66@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261102T190000Z
+DTEND:20261102T210000Z
+SUMMARY:[virtual] TEN Capital Investor Education Series
+LOCATION:Online (TEN Capital Network)
+DESCRIPTION:Source: https://www.eventbrite.com/e/ten-capital-investor-edu
+ cation-series-tickets-2002566492286\nVia: Eventbrite\nLocal time: Mon Nov
+  02 2026 03:30 PM NT
+URL:https://www.eventbrite.com/e/ten-capital-investor-education-series-tickets-2002566492286
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7d6f2857359a06bdf07340ac9921b2433b870706@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261102T220000Z
+DTEND:20261102T233000Z
+SUMMARY:[virtual] Practical Considerations for Long Duration Energy Stora
+ ge (LDES) in CO
+LOCATION:Online (Colorado Renewable Energy Society)
+DESCRIPTION:Source: https://www.eventbrite.com/e/practical-considerations
+ -for-long-duration-energy-storage-ldes-in-co-tickets-2003119253610\nVia: 
+ Eventbrite\nLocal time: Mon Nov 02 2026 06:30 PM NT
+URL:https://www.eventbrite.com/e/practical-considerations-for-long-duration-energy-storage-ldes-in-co-tickets-2003119253610
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:10eeaecebd308779758bb7686b608429b511a2d1@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261103T170000Z
+DTEND:20261103T180000Z
+SUMMARY:[virtual] From Founder to Funded: Interactive Q&A with a Top Star
+ tup Investor
+LOCATION:Online (Founder Institute)
+DESCRIPTION:Source: https://www.eventbrite.com/e/from-founder-to-funded-i
+ nteractive-qa-with-a-top-startup-investor-tickets-2003774188538\nVia: Eve
+ ntbrite\nLocal time: Tue Nov 03 2026 01:30 PM NT
+URL:https://www.eventbrite.com/e/from-founder-to-funded-interactive-qa-with-a-top-startup-investor-tickets-2003774188538
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:24784b7e9e39cb61a8444bc8bf828aaf6de61727@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261104T120000Z
+DTEND:20261104T130000Z
+SUMMARY:[virtual] How to Raise Funding from Angel Investors
+LOCATION:Online (Founder Institute)
+DESCRIPTION:Source: https://www.eventbrite.com/e/how-to-raise-funding-fro
+ m-angel-investors-tickets-2003833463832\nVia: Eventbrite\nLocal time: Wed
+  Nov 04 2026 08:30 AM NT
+URL:https://www.eventbrite.com/e/how-to-raise-funding-from-angel-investors-tickets-2003833463832
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:57aeb9621de266c8aacb9ee273ee361be12753fa@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261104T170000Z
+DTEND:20261104T180000Z
+SUMMARY:[virtual] Human + AI Workforce Intelligence
+LOCATION:Online (Transformer Hub)
+DESCRIPTION:Source: https://www.eventbrite.com/e/human-ai-workforce-intel
+ ligence-tickets-2001897334818\nVia: Eventbrite\nLocal time: Wed Nov 04 20
+ 26 01:30 PM NT
+URL:https://www.eventbrite.com/e/human-ai-workforce-intelligence-tickets-2001897334818
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b6c11dd381e7d33f8ddf1fd6850e88481cef9ddf@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261105T170000Z
+DTEND:20261105T183000Z
+SUMMARY:[virtual] How to Prepare Your Startup for Venture Capital Funding
+ !
+LOCATION:Online (Idea to IPO)
+DESCRIPTION:Source: https://www.eventbrite.ca/e/how-to-prepare-your-start
+ up-for-venture-capital-funding-tickets-1993727745356\nVia: Eventbrite\nLo
+ cal time: Thu Nov 05 2026 01:30 PM NT
+URL:https://www.eventbrite.ca/e/how-to-prepare-your-startup-for-venture-capital-funding-tickets-1993727745356
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:76b73ba50b19129f058dd2d6067083326fef119f@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261105T130000Z
+DTEND:20261105T140000Z
+SUMMARY:[virtual] Integrating Offshore Renewables\, Green Hydrogen and AI
+  for Maritime Energy
+LOCATION:Online (SETsquared)
+DESCRIPTION:Source: https://www.eventbrite.co.uk/e/integrating-offshore-r
+ enewables-green-hydrogen-and-ai-for-maritime-energy-tickets-2001497838915
+ \nVia: Eventbrite\nLocal time: Thu Nov 05 2026 09:30 AM NT
+URL:https://www.eventbrite.co.uk/e/integrating-offshore-renewables-green-hydrogen-and-ai-for-maritime-energy-tickets-2001497838915
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:12dd0c6dca2dd32feeed5be1380dcc83f5d4949f@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261109T140000Z
+DTEND:20261109T163000Z
+SUMMARY:[virtual] Pitch Deck Clinic (Online Workshop for Startup Founders
+ )
+LOCATION:Online (Leapfunder)
+DESCRIPTION:Source: https://www.eventbrite.nl/e/pitch-deck-clinic-online-
+ workshop-for-startup-founders-tickets-1990415312781\nVia: Eventbrite\nLoc
+ al time: Mon Nov 09 2026 10:30 AM NT
+URL:https://www.eventbrite.nl/e/pitch-deck-clinic-online-workshop-for-startup-founders-tickets-1990415312781
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:08d21781462ebca696710661d12a6de8e456c8d3@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261110T010000Z
+DTEND:20261110T020000Z
+SUMMARY:[virtual] The State of Australian Startup Funding Heading Into 20
+ 27
+LOCATION:Online (Standard Ledger)
+DESCRIPTION:Source: https://www.eventbrite.com.au/e/the-state-of-australi
+ an-startup-funding-heading-into-2027-tickets-2002562058023\nVia: Eventbri
+ te\nLocal time: Mon Nov 09 2026 09:30 PM NT
+URL:https://www.eventbrite.com.au/e/the-state-of-australian-startup-funding-heading-into-2027-tickets-2002562058023
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d8af7b498b4dbfdc0351a8c34596004413ce19ac@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261110T173000Z
+DTEND:20261110T183000Z
+SUMMARY:[virtual] Unlocking Government Resources With Corporation Canada 
+ & Innovation Canada
+LOCATION:Online (Futurpreneur Canada)
+DESCRIPTION:Source: https://www.eventbrite.ca/e/unlocking-government-reso
+ urces-with-corporation-canada-innovation-canada-tickets-1993473947239\nVi
+ a: Eventbrite\nLocal time: Tue Nov 10 2026 02:00 PM NT
+URL:https://www.eventbrite.ca/e/unlocking-government-resources-with-corporation-canada-innovation-canada-tickets-1993473947239
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b6216e061bdf4b913721ec569147e856b0e5eeaf@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261111T170000Z
+DTEND:20261111T180000Z
+SUMMARY:[virtual] Startup  Valuation Workshop:  What is Your Startup Wort
+ h?
+LOCATION:Online (Silicon Valley Startup: Idea to IPO)
+DESCRIPTION:Source: https://www.eventbrite.ca/e/startup-valuation-worksho
+ p-what-is-your-startup-worth-tickets-1497551730539\nVia: Eventbrite\nLoca
+ l time: Wed Nov 11 2026 01:30 PM NT
+URL:https://www.eventbrite.ca/e/startup-valuation-workshop-what-is-your-startup-worth-tickets-1497551730539
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2322083bbe096934a445517db57deddf005290d5@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261112T150000Z
+DTEND:20261112T170000Z
+SUMMARY:[virtual] Energy-Industrial Huddle
+LOCATION:Online (5 Lakes + MRUN)
+DESCRIPTION:Source: https://www.eventbrite.com/e/energy-industrial-huddle
+ -tickets-1992164890816\nVia: Eventbrite\nLocal time: Thu Nov 12 2026 11:3
+ 0 AM NT
+URL:https://www.eventbrite.com/e/energy-industrial-huddle-tickets-1992164890816
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b59b7637702af43c77441638bbd57792a79352c4@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261112T170000Z
+DTEND:20261112T190000Z
+SUMMARY:[virtual] How to Get Venture  and Angel Funding for Your Tech Sta
+ rtup!
+LOCATION:Online (Idea to IPO)
+DESCRIPTION:Source: https://www.eventbrite.ca/e/how-to-get-venture-and-an
+ gel-funding-for-your-tech-startup-tickets-1094749026809\nVia: Eventbrite\
+ nLocal time: Thu Nov 12 2026 01:30 PM NT
+URL:https://www.eventbrite.ca/e/how-to-get-venture-and-angel-funding-for-your-tech-startup-tickets-1094749026809
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:45a3d4cfd553911fbeafcca62c04fd930e8e106b@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261112T120000Z
+DTEND:20261112T130000Z
+SUMMARY:[virtual] StartUp FUNDRAISING Q&A 175
+LOCATION:Online (StartUp to ScaleUP Club)
+DESCRIPTION:Source: https://www.eventbrite.co.uk/e/startup-fundraising-qa
+ -175-tickets-1998020579338\nVia: Eventbrite\nLocal time: Thu Nov 12 2026 
+ 08:30 AM NT
+URL:https://www.eventbrite.co.uk/e/startup-fundraising-qa-175-tickets-1998020579338
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ebb7832c8c8e9afc45fee09b6b80d1ac3d667de3@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261113T140000Z
+DTEND:20261113T150000Z
+SUMMARY:[virtual] The Gendered Impact of AI at Work: The Challenges and O
+ pportunities
+LOCATION:Online (King’s Institute for Artificial Intelligence)
+DESCRIPTION:Source: https://www.eventbrite.co.uk/e/the-gendered-impact-of
+ -ai-at-work-the-challenges-and-opportunities-tickets-2001882193530\nVia: 
+ Eventbrite\nLocal time: Fri Nov 13 2026 10:30 AM NT
+URL:https://www.eventbrite.co.uk/e/the-gendered-impact-of-ai-at-work-the-challenges-and-opportunities-tickets-2001882193530
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:189ce53a18d1d2fc3d2ad40c219e519cf3d3fcc8@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261116T180000Z
+DTEND:20261214T200000Z
+SUMMARY:[virtual] Beyond the Pitch: Become the Founder Investors Believe 
+ In: The Forge & DVC
+LOCATION:Online
+DESCRIPTION:Source: https://www.eventbrite.com/e/beyond-the-pitch-become-
+ the-founder-investors-believe-in-the-forge-dvc-tickets-2003096497546\nVia
+ : Eventbrite\nLocal time: Mon Nov 16 2026 02:30 PM NT
+URL:https://www.eventbrite.com/e/beyond-the-pitch-become-the-founder-investors-believe-in-the-forge-dvc-tickets-2003096497546
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:778a063710c5d7df7735a22fe2f60eee47dee017@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261119T180000Z
+DTEND:20261119T190000Z
+SUMMARY:[virtual] The Electrical Grid in Flux
+LOCATION:Online (Science History Institute)
+DESCRIPTION:Source: https://www.eventbrite.com/e/the-electrical-grid-in-f
+ lux-registration-1999725162793\nVia: Eventbrite\nLocal time: Thu Nov 19 2
+ 026 02:30 PM NT
+URL:https://www.eventbrite.com/e/the-electrical-grid-in-flux-registration-1999725162793
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5c46c5c034352df12eb078835b2425d16d493406@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261120T160000Z
+DTEND:20261120T170000Z
+SUMMARY:[virtual] Powering Maine's Future:  AI & Data Centers
+LOCATION:Online (ClimateWork Maine)
+DESCRIPTION:Source: https://www.eventbrite.com/e/powering-maines-future-a
+ i-data-centers-tickets-1987963235552\nVia: Eventbrite\nLocal time: Fri No
+ v 20 2026 12:30 PM NT
+URL:https://www.eventbrite.com/e/powering-maines-future-ai-data-centers-tickets-1987963235552
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a7c8f93e9a5b1b794367137fc837e84bf9c1b8f7@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261121T150000Z
+DTEND:20261121T170000Z
+SUMMARY:[virtual] Threat of AI to Humanity: Governing AI in a Fragmented 
+ World
+LOCATION:Online (Jesus College)
+DESCRIPTION:Source: https://www.eventbrite.com/e/threat-of-ai-to-humanity
+ -governing-ai-in-a-fragmented-world-tickets-2001020668686\nVia: Eventbrit
+ e\nLocal time: Sat Nov 21 2026 11:30 AM NT
+URL:https://www.eventbrite.com/e/threat-of-ai-to-humanity-governing-ai-in-a-fragmented-world-tickets-2001020668686
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:852cf31620fa388a1df113d7dea8bfca18c164bf@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261123T140000Z
+DTEND:20261123T163000Z
+SUMMARY:[virtual] Finance Academy (Online Workshop for Startup Founders)
+LOCATION:Online (Leapfunder)
+DESCRIPTION:Source: https://www.eventbrite.nl/e/finance-academy-online-wo
+ rkshop-for-startup-founders-tickets-1990415654804\nVia: Eventbrite\nLocal
+  time: Mon Nov 23 2026 10:30 AM NT
+URL:https://www.eventbrite.nl/e/finance-academy-online-workshop-for-startup-founders-tickets-1990415654804
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:da1a3b3414a678d91e138d280e71779c1c79517e@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261126T150000Z
+DTEND:20261126T163000Z
+SUMMARY:[virtual] Foundations of Successful Angel Investing (Online Event
+ )
+LOCATION:Online (Leapfunder)
+DESCRIPTION:Source: https://www.eventbrite.nl/e/foundations-of-successful
+ -angel-investing-online-event-tickets-1990416662819\nVia: Eventbrite\nLoc
+ al time: Thu Nov 26 2026 11:30 AM NT
+URL:https://www.eventbrite.nl/e/foundations-of-successful-angel-investing-online-event-tickets-1990416662819
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c0f2c19e1a314743043ece8e7e1cd5fd15cf9d2b@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261203T140000Z
+DTEND:20261203T173000Z
+SUMMARY:[virtual] Startup Demo Day Netherlands 2026 | Pitch to Investors
+LOCATION:Online (LAUNEXT Venture Studio)
+DESCRIPTION:Source: https://www.eventbrite.nl/e/startup-demo-day-netherla
+ nds-2026-pitch-to-investors-tickets-2000690986598\nVia: Eventbrite\nLocal
+  time: Thu Dec 03 2026 10:30 AM NT
+URL:https://www.eventbrite.nl/e/startup-demo-day-netherlands-2026-pitch-to-investors-tickets-2000690986598
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f557718e37ef11d449119aa4242c78b2c6090c49@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261205T013000Z
+DTEND:20261205T023000Z
+SUMMARY:[virtual] Business Webinar - Cleantech & Energy Transition
+LOCATION:Online (The Germin8tor)
+DESCRIPTION:Source: https://www.eventbrite.ca/e/business-webinar-cleantec
+ h-energy-transition-tickets-1996474964362\nVia: Eventbrite\nLocal time: F
+ ri Dec 04 2026 10:00 PM NT
+URL:https://www.eventbrite.ca/e/business-webinar-cleantech-energy-transition-tickets-1996474964362
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1dcd5f49181b1195d72657c4138348db6484505@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261205T160000Z
+DTEND:20261205T200000Z
+SUMMARY:[virtual] Startup Funding Workshop 2026
+LOCATION:Online (Future Robotics Innovation Network)
+DESCRIPTION:Source: https://www.eventbrite.com/e/startup-funding-workshop
+ -2026-tickets-1990065873599\nVia: Eventbrite\nLocal time: Sat Dec 05 2026
+  12:30 PM NT
+URL:https://www.eventbrite.com/e/startup-funding-workshop-2026-tickets-1990065873599
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:eeb82e97d282d256bbae586d8b0104a12737633d@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261210T160000Z
+DTEND:20261210T170000Z
+SUMMARY:[virtual] Venture Trailblazers featuring Harry Stebbings
+LOCATION:Online (Founder Institute)
+DESCRIPTION:Source: https://www.eventbrite.com/e/venture-trailblazers-fea
+ turing-harry-stebbings-tickets-2003781033010\nVia: Eventbrite\nLocal time
+ : Thu Dec 10 2026 12:30 PM NT
+URL:https://www.eventbrite.com/e/venture-trailblazers-featuring-harry-stebbings-tickets-2003781033010
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5671f48cd0f95868e81d381d5d011f8eef5c13fd@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261210T180000Z
+DTEND:20261210T200000Z
+SUMMARY:[virtual] December 2026 Online VC Fast Pitch.
+LOCATION:Online (Scott Kelly\, CEO Black Dog Venture Partners)
+DESCRIPTION:Source: https://www.eventbrite.com/e/december-2026-online-vc-
+ fast-pitch-tickets-2003377420795\nVia: Eventbrite\nLocal time: Thu Dec 10
+  2026 02:30 PM NT
+URL:https://www.eventbrite.com/e/december-2026-online-vc-fast-pitch-tickets-2003377420795
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:37d190d38b42c414d768f234df5557d828407752@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261210T130000Z
+DTEND:20261210T150000Z
+SUMMARY:[virtual] SSCG Africa Energy and Mining Forum 2026
+LOCATION:Online (SSCG)
+DESCRIPTION:Source: https://www.eventbrite.co.uk/e/sscg-africa-energy-and
+ -mining-forum-2026-tickets-2003704808019\nVia: Eventbrite\nLocal time: Th
+ u Dec 10 2026 09:30 AM NT
+URL:https://www.eventbrite.co.uk/e/sscg-africa-energy-and-mining-forum-2026-tickets-2003704808019
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:29ef8b64b7f48c96aea21e998f8f0e1afbf33107@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261215T160000Z
+DTEND:20261218T020000Z
+SUMMARY:[virtual] Global Artificial Intelligence Virtual Conference  Dece
+ mber  2026
+LOCATION:Online (Global Big Data Conference)
+DESCRIPTION:Source: https://www.eventbrite.com/e/global-artificial-intell
+ igence-virtual-conference-december-2026-tickets-2003334218576\nVia: Event
+ brite\nLocal time: Tue Dec 15 2026 12:30 PM NT
+URL:https://www.eventbrite.com/e/global-artificial-intelligence-virtual-conference-december-2026-tickets-2003334218576
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d57ce7c0e49762e6f23adf5420b9e364ec523be3@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20270110T013000Z
+DTEND:20270110T023000Z
+SUMMARY:[virtual] Business Webinar - Alberta's Venture Capital Landspace
+LOCATION:Online (The Germin8tor)
+DESCRIPTION:Source: https://www.eventbrite.ca/e/business-webinar-albertas
+ -venture-capital-landspace-tickets-1996823518898\nVia: Eventbrite\nLocal 
+ time: Sat Jan 09 2027 10:00 PM NT
+URL:https://www.eventbrite.ca/e/business-webinar-albertas-venture-capital-landspace-tickets-1996823518898
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d040f0a8f31747090c188164a4d9b7d681e30b4f@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261129T013000Z
+DTEND:20261129T023000Z
+SUMMARY:[virtual] Business Webinar - AI and Machine Learning Showcase
+LOCATION:Online (The Germin8tor)
+DESCRIPTION:Source: https://www.eventbrite.ca/e/business-webinar-ai-and-m
+ achine-learning-showcase-tickets-1996472974410\nVia: Eventbrite\nLocal ti
+ me: Sat Nov 28 2026 10:00 PM NT
+URL:https://www.eventbrite.ca/e/business-webinar-ai-and-machine-learning-showcase-tickets-1996472974410
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f8e4da030d6e68fde9390007c690e53ecaffebab@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261110T180000Z
+DTEND:20261120T200000Z
+SUMMARY:[virtual] AI-Enabled Leadership Studios
+LOCATION:Online (Berkeley Executive Coaching Institute)
+DESCRIPTION:Source: https://www.eventbrite.com/e/ai-enabled-leadership-st
+ udios-tickets-2002671009901\nVia: Eventbrite\nLocal time: Tue Nov 10 2026
+  02:30 PM NT
+URL:https://www.eventbrite.com/e/ai-enabled-leadership-studios-tickets-2002671009901
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f0f07cd87417a6932c0650ebfd273dea1cdfe10a@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261028T213000Z
+DTEND:20261028T233000Z
+SUMMARY:Kyla Cobbler: Gone Rogue Live
+LOCATION:Arts and Culture Centre\, 95 Allandale Road\, St. John's\, NL
+DESCRIPTION:Source: https://destinationstjohns.com/event/kyla-cobbler-gon
+ e-rogue-live/\nVia: Destination St. John's\nLocal time: Wed Oct 28 2026 0
+ 7:00 PM NT
+URL:https://destinationstjohns.com/event/kyla-cobbler-gone-rogue-live/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fc3b43da5ec5eff105852fe243b958ac78cffd96@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261105T120000Z
+DTEND:20261105T160000Z
+SUMMARY:Business and Arts NL (Un)Common Threads: Creativity & Innovation 
+ Summit 2026
+LOCATION:Sheraton Hotel Newfoundland\, 115 Cavendish Square\, St. John's\
+ , NL
+DESCRIPTION:Source: https://businessandartsnl.com/uncommon-threads/summit
+ -2026\nVia: Destination St. John's\nLocal time: Thu Nov 05 2026 08:30 AM 
+ NT
+URL:https://businessandartsnl.com/uncommon-threads/summit-2026
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:45d3017215ae8f7ad629494e45b9a04b69970bb4@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261105T133000Z
+DTEND:20261105T150000Z
+SUMMARY:Board of Trade Coffee & Connect
+LOCATION:The Board of Trade\, Cabot Building 8th Floor\, 100 New Gower St
+ \, St. John's\, NL
+DESCRIPTION:Source: https://members.theboardoftrade.ca/events/details/cof
+ fee-connect-4618\nVia: The Board of Trade\nLocal time: Thu Nov 05 2026 10
+ :00 AM NT
+URL:https://members.theboardoftrade.ca/events/details/coffee-connect-4618
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bf7ca4f95ef1ace106ce9a30c0d29f17536101c6@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261105T153000Z
+DTEND:20261105T223000Z
+SUMMARY:Craft Council of NL Christmas Craft Fair (runs Nov 5-8)
+LOCATION:Jack Byrne Arena\, 7 Kennedys Brook Drive\, Torbay\, NL
+DESCRIPTION:Source: https://www.craftcouncilnl.ca/craft-fair/craft-fair\n
+ Via: Craft Council NL\nLocal time: Thu Nov 05 2026 12:00 PM NT
+URL:https://www.craftcouncilnl.ca/craft-fair/craft-fair
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:196b9ca480f6ece95bed49f89e4eec76ecaa3359@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261126T203000Z
+DTEND:20261127T023000Z
+SUMMARY:2026 Board of Trade Business Awards Gala
+LOCATION:Delta Hotel\, 120 New Gower Street\, St. John's\, NL
+DESCRIPTION:Source: https://members.theboardoftrade.ca/events/details/202
+ 6-board-of-trade-business-awards-4575\nVia: The Board of Trade\nLocal tim
+ e: Thu Nov 26 2026 05:00 PM NT
+URL:https://members.theboardoftrade.ca/events/details/2026-board-of-trade-business-awards-4575
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b00159495649f44459579802f184d43fdd3cf472@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261129T153000Z
+DTEND:20261129T173000Z
+SUMMARY:Downtown St. John's Christmas Parade
+LOCATION:Downtown St. John's\, NL
+DESCRIPTION:Source: https://downtownstjohns.com/signature-events/christma
+ s-parade/\nVia: Downtown St. John's\nLocal time: Sun Nov 29 2026 12:00 PM
+  NT
+URL:https://downtownstjohns.com/signature-events/christmas-parade/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:83b38d155205509a66840fd2f2a54c0a0497f26b@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261105T190000Z
+DTEND:20261105T200000Z
+SUMMARY:[virtual] Data Centres: Are We Regulating Intelligently? (Alberta
+ )
+LOCATION:Online (Environmental Law Centre)
+DESCRIPTION:Source: https://elc.ab.ca/post-library/webinar-data-centres-a
+ re-we-regulating-intelligently/\nVia: Organiser page\nLocal time: Thu Nov
+  05 2026 03:30 PM NT
+URL:https://elc.ab.ca/post-library/webinar-data-centres-are-we-regulating-intelligently/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:749a054abf7a9977db37c6c38cb88c416a950d04@nearby-virtual
+DTSTAMP:20261027T003637Z
+DTSTART:20261119T180000Z
+DTEND:20261119T190000Z
+SUMMARY:[virtual] Energy Strategy: How Hyperscalers and AI Labs Are Secur
+ ing Power
+LOCATION:Online (Wood Mackenzie)
+DESCRIPTION:Source: https://www.woodmac.com/events/2026-large-loads-and-d
+ ata-centre-webinar-series/\nVia: Organiser page\nLocal time: Thu Nov 19 2
+ 026 02:30 PM NT
+URL:https://www.woodmac.com/events/2026-large-loads-and-data-centre-webinar-series/
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
